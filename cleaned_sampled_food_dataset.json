@@ -1,0 +1,5052 @@
+[
+    {
+        "Food":"l\u2019authentique pain paillasse cereales",
+        "Category":"en:breads",
+        "Calories":0.0250239006
+    },
+    {
+        "Food":"fruit gummies",
+        "Category":"en:confectioneries",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"fruit gummies",
+        "Category":"en:confectioneries",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"les boudoirs magiques",
+        "Category":"en:sponge-fingers-biscuit",
+        "Calories":0.0458891013
+    },
+    {
+        "Food":"xango reserve",
+        "Category":"en:juices-and-nectars",
+        "Calories":0.0043021033
+    },
+    {
+        "Food":"sobe, fruit twist snacks blueberry pomec-ranate",
+        "Category":"en:confectioneries",
+        "Calories":0.0320984704
+    },
+    {
+        "Food":"muffin double chocolat",
+        "Category":"en:chocolate-muffins",
+        "Calories":0.0390057361
+    },
+    {
+        "Food":"pesto",
+        "Category":"en:groceries",
+        "Calories":0.0554015296
+    },
+    {
+        "Food":"75 protein bar",
+        "Category":"en:protein-bars",
+        "Calories":0.0476099426
+    },
+    {
+        "Food":"lagg's, herbal tea, peppermint",
+        "Category":"en:tea-bags",
+        "Calories":0.0
+    },
+    {
+        "Food":"biscotti al cacao e crema alla vaniglia",
+        "Category":"en:chocolate-sandwich-cookies",
+        "Calories":0.0436902486
+    },
+    {
+        "Food":"colgate sensitive plus. made in india.",
+        "Category":"en:open-beauty-facts",
+        "Calories":0.0169933078
+    },
+    {
+        "Food":"feletti, milk chocolate pralines",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0541108987
+    },
+    {
+        "Food":"so vegan so fine",
+        "Category":"en:chocolate-spreads",
+        "Calories":0.0561902486
+    },
+    {
+        "Food":"granini p\u00eache et raisin",
+        "Category":"en:beverages",
+        "Calories":0.0032026769
+    },
+    {
+        "Food":"fuet ecol\u00f3gico",
+        "Category":"en:sausages",
+        "Calories":0.0320028681
+    },
+    {
+        "Food":"pur\u00e9e de s\u00e9same tahini bio",
+        "Category":"fr:pate-de-noix",
+        "Calories":0.0630736138
+    },
+    {
+        "Food":"jam\u00f3n serrano",
+        "Category":"en:serrano-ham",
+        "Calories":0.0196940727
+    },
+    {
+        "Food":"creamed honey",
+        "Category":"en:honeys",
+        "Calories":0.0286089866
+    },
+    {
+        "Food":"madeleines bijou",
+        "Category":"fr:madeleines-chocolat-noisette",
+        "Calories":0.0494024857
+    },
+    {
+        "Food":"oeuf de goeland chocolat vrac",
+        "Category":"en:sweet-snacks",
+        "Calories":0.0588910134
+    },
+    {
+        "Food":"velout\u00e9 de 12 l\u00e9gumes",
+        "Category":"fr:potage",
+        "Calories":0.004206501
+    },
+    {
+        "Food":"poulet",
+        "Category":"en:chickens",
+        "Calories":0.0088910134
+    },
+    {
+        "Food":"bagel",
+        "Category":"en:bagel-breads",
+        "Calories":0.0196940727
+    },
+    {
+        "Food":"chai latte",
+        "Category":"en:chai-teas",
+        "Calories":0.0189531549
+    },
+    {
+        "Food":"sopa de tomate gourmet",
+        "Category":"en:soups",
+        "Calories":0.0326003824
+    },
+    {
+        "Food":"assortiments de tuiles et palets gourmants au chocolat",
+        "Category":"en:biscuits",
+        "Calories":0.056500956
+    },
+    {
+        "Food":"croissant vegan",
+        "Category":"en:croissants",
+        "Calories":0.0364961759
+    },
+    {
+        "Food":"chocolat noir",
+        "Category":"en:dark-chocolates",
+        "Calories":0.0537045889
+    },
+    {
+        "Food":"brocolis sauce guazamara",
+        "Category":"en:vegetables-based-foods",
+        "Calories":0.0061902486
+    },
+    {
+        "Food":"protein drink mix",
+        "Category":"en:protein-shakes",
+        "Calories":0.0390296367
+    },
+    {
+        "Food":"lagg's, green tea",
+        "Category":"en:tea-bags",
+        "Calories":0.0
+    },
+    {
+        "Food":"premier protien 100% whey powder",
+        "Category":"en:protien-powder",
+        "Calories":0.0365917782
+    },
+    {
+        "Food":"organic tomato sauce with basil",
+        "Category":"en:groceries",
+        "Calories":0.0061902486
+    },
+    {
+        "Food":"mortadelle olives 10 tranches",
+        "Category":"en:meats",
+        "Calories":0.019789675
+    },
+    {
+        "Food":"german fine bread",
+        "Category":"en:breads",
+        "Calories":0.026290631
+    },
+    {
+        "Food":"emojeez, gummies, assorted fruits",
+        "Category":"en:confectioneries",
+        "Calories":0.0275095602
+    },
+    {
+        "Food":"l'envo\u00fbtante (pain)",
+        "Category":"en:baguettes",
+        "Calories":0.0283938815
+    },
+    {
+        "Food":"sirop d'agave",
+        "Category":"en:agave-syrups",
+        "Calories":0.0320028681
+    },
+    {
+        "Food":"veganes protein vanille",
+        "Category":"en:beverages",
+        "Calories":0.0384082218
+    },
+    {
+        "Food":"salade de macedoine de l\u00e9gumes",
+        "Category":"en:vegetables-macedoines",
+        "Calories":0.014292543
+    },
+    {
+        "Food":"pb2 pure peanut powder",
+        "Category":"en:plant-based-foods-and-beverages",
+        "Calories":0.0461281071
+    },
+    {
+        "Food":"shakeology",
+        "Category":"en:supplement",
+        "Calories":0.0410372849
+    },
+    {
+        "Food":"cornichon russka",
+        "Category":"en:gherkins",
+        "Calories":0.0007887189
+    },
+    {
+        "Food":"2 maxi best of chicken mcnuggets",
+        "Category":"en:chicken-nuggets",
+        "Calories":0.0
+    },
+    {
+        "Food":"beurre de cacahu\u00e8tes croquantes bio",
+        "Category":"fr:pate-de-noix",
+        "Calories":0.0620458891
+    },
+    {
+        "Food":"\u00e9minc\u00e9s de dinde marin\u00e9s cuits saveur kebab",
+        "Category":"en:turkeys",
+        "Calories":0.0159894837
+    },
+    {
+        "Food":"green leaf lettuce",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.001792543
+    },
+    {
+        "Food":"gala apple",
+        "Category":"en:gala-apples",
+        "Calories":0.0050669216
+    },
+    {
+        "Food":"dried egg product whole eggs",
+        "Category":"en:eggs",
+        "Calories":0.0538001912
+    },
+    {
+        "Food":"solid milk chocolate",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0553059273
+    },
+    {
+        "Food":"panettone",
+        "Category":"en:panettone",
+        "Calories":0.0368068834
+    },
+    {
+        "Food":"4 beignets \u00e0 la pomme",
+        "Category":"en:sweet-fritters",
+        "Calories":0.030999044
+    },
+    {
+        "Food":"the madelaine chocolate company, solid milk chocolate bunnies",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0543021033
+    },
+    {
+        "Food":"extra virgin olive oil",
+        "Category":"en:fats",
+        "Calories":0.0214388145
+    },
+    {
+        "Food":"organic cacao powder",
+        "Category":"en:chia",
+        "Calories":0.0271032505
+    },
+    {
+        "Food":"artichokes",
+        "Category":"en:canned-vegetables",
+        "Calories":0.0049952199
+    },
+    {
+        "Food":"madeleines choco noir",
+        "Category":"en:chocolate-madeleines",
+        "Calories":0.0466778203
+    },
+    {
+        "Food":"rebuild",
+        "Category":"en:bodybuilding-supplements",
+        "Calories":0.038001912
+    },
+    {
+        "Food":"dehydrated potato dices",
+        "Category":"en:mixed-vegetables",
+        "Calories":0.0371892925
+    },
+    {
+        "Food":"ricotta sita",
+        "Category":"en:ricotta",
+        "Calories":0.014292543
+    },
+    {
+        "Food":"dattes mejdoul",
+        "Category":"en:medjool-dates",
+        "Calories":0.0227294455
+    },
+    {
+        "Food":"sandwich tomate fromage",
+        "Category":"en:sandwiches",
+        "Calories":0.017208413
+    },
+    {
+        "Food":"harvest whole wheat bread",
+        "Category":"en:chouquettes",
+        "Calories":0.0232552581
+    },
+    {
+        "Food":"artichokes",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.0049952199
+    },
+    {
+        "Food":"emojeez, gummies candy, fruit",
+        "Category":"en:confectioneries",
+        "Calories":0.0275095602
+    },
+    {
+        "Food":"protein chewy bars",
+        "Category":"en:protein-bars",
+        "Calories":0.019000956
+    },
+    {
+        "Food":"vellutata pomodoro",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.0316921606
+    },
+    {
+        "Food":"protein bar, almond and chocolate",
+        "Category":"en:protein-bars",
+        "Calories":0.0391013384
+    },
+    {
+        "Food":"vanilla almond milk",
+        "Category":"en:milks",
+        "Calories":0.0080066922
+    },
+    {
+        "Food":"legion whey (french vanilla)",
+        "Category":"it:integratore",
+        "Calories":0.0370458891
+    },
+    {
+        "Food":"muscle milk",
+        "Category":"en:shakes",
+        "Calories":0.05
+    },
+    {
+        "Food":"saint hubert v\u00e9g\u00e9tal",
+        "Category":"en:plant-based-foods",
+        "Calories":0.0469885277
+    },
+    {
+        "Food":"angry birds, fruit snacks, cherry, lemon, raspberry, apple, grape, strawberry",
+        "Category":"en:confectioneries",
+        "Calories":0.0325047801
+    },
+    {
+        "Food":"chocolate crisp",
+        "Category":"en:groceries",
+        "Calories":0.0084369025
+    },
+    {
+        "Food":"lightly salted",
+        "Category":"en:walkers-crisps",
+        "Calories":0.0520315488
+    },
+    {
+        "Food":"wholemeal heyford",
+        "Category":"en:whear-product",
+        "Calories":0.0233269598
+    },
+    {
+        "Food":"confiture de fraise mara des bois",
+        "Category":"en:strawberry-jams",
+        "Calories":0.0
+    },
+    {
+        "Food":"the noir parfum\u00e9",
+        "Category":"en:herbal-teas",
+        "Calories":0.0000956023
+    },
+    {
+        "Food":"prote\u00edna de soya my smart shake",
+        "Category":"en:protein-shakes",
+        "Calories":0.0364005736
+    },
+    {
+        "Food":"dr pepper, soft chewy twisted candy bites",
+        "Category":"en:confectioneries",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"bijou caramel chocolait",
+        "Category":"en:filled-cakes",
+        "Calories":0.0431883365
+    },
+    {
+        "Food":"beurre de cacahu\u00e8tes bio",
+        "Category":"fr:pate-de-noix",
+        "Calories":0.0620458891
+    },
+    {
+        "Food":"salty vegan plus",
+        "Category":"en:protein-powders",
+        "Calories":0.0209130019
+    },
+    {
+        "Food":"galettes caramel disigny",
+        "Category":"fr:galette-caramel",
+        "Calories":0.0489961759
+    },
+    {
+        "Food":"teigwaren",
+        "Category":"en:chocolates",
+        "Calories":0.0351099426
+    },
+    {
+        "Food":"sweet chili",
+        "Category":"en:hot-sauces",
+        "Calories":0.0106118547
+    },
+    {
+        "Food":"angry birds, fruit snack, cherry, lemon, raspberry, apple, grape, strawberry",
+        "Category":"en:confectioneries",
+        "Calories":0.0286089866
+    },
+    {
+        "Food":"riccioli di crusca",
+        "Category":"en:stuffed-pastas",
+        "Calories":0.0320028681
+    },
+    {
+        "Food":"easy daddy mac",
+        "Category":"en:cheese-sauce-mix",
+        "Calories":0.056166348
+    },
+    {
+        "Food":"chicken kievs",
+        "Category":"en:chicken-kievs",
+        "Calories":0.0254063098
+    },
+    {
+        "Food":"best ginger snap cookies",
+        "Category":"en:biscuits",
+        "Calories":0.038790631
+    },
+    {
+        "Food":"beignets fourres au chocolat",
+        "Category":"fr:beignets-au-chocolat",
+        "Calories":0.0393881453
+    },
+    {
+        "Food":"le jambon de nos r\u00e9gions",
+        "Category":"en:crisps",
+        "Calories":0.0114961759
+    },
+    {
+        "Food":"beurre de  bleuets",
+        "Category":"en:butters",
+        "Calories":0.0030114723
+    },
+    {
+        "Food":"zucchini",
+        "Category":"en:fresh-zucchini",
+        "Calories":0.0016013384
+    },
+    {
+        "Food":"creamed honey with hibiscus",
+        "Category":"en:honeys",
+        "Calories":0.0286089866
+    },
+    {
+        "Food":"turmeric, creamed, local honey",
+        "Category":"en:honeys",
+        "Calories":0.0333413002
+    },
+    {
+        "Food":"dibs crunch ice cream bits",
+        "Category":"en:ice-creams",
+        "Calories":0.0367112811
+    },
+    {
+        "Food":"brownie mix",
+        "Category":"en:cake-mixes",
+        "Calories":0.0385038241
+    },
+    {
+        "Food":"welch's, freeze-dried banana & strawberry slices",
+        "Category":"en:snacks",
+        "Calories":0.0320984704
+    },
+    {
+        "Food":"peanut butter nut bar",
+        "Category":"en:bars",
+        "Calories":0.0229923518
+    },
+    {
+        "Food":"petit sabl\u00e9 cranberry framboise",
+        "Category":"en:biscuits",
+        "Calories":0.0428059273
+    },
+    {
+        "Food":"p'tits beignets parfum choco-noisette",
+        "Category":"en:sweet-fritters",
+        "Calories":0.0101099426
+    },
+    {
+        "Food":"feletti, pralines candy, milk chocolate",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0527963671
+    },
+    {
+        "Food":"california bear poop",
+        "Category":"en:bonbons",
+        "Calories":0.026290631
+    },
+    {
+        "Food":"fit-food harina de avena salada",
+        "Category":"en:oat-flours",
+        "Calories":0.0343929254
+    },
+    {
+        "Food":"lait de coco",
+        "Category":"en:coconut-milks-and-creams",
+        "Calories":0.0114005736
+    },
+    {
+        "Food":"bio moulin\u00e9 de legumes verts",
+        "Category":"it:zuppa",
+        "Calories":0.0027963671
+    },
+    {
+        "Food":"ketchup",
+        "Category":"en:ketchup",
+        "Calories":0.0086998088
+    },
+    {
+        "Food":"fr\u00fcchtemischung bonbon",
+        "Category":"en:candies",
+        "Calories":0.0396988528
+    },
+    {
+        "Food":"freeze dried pineapple chunks",
+        "Category":"en:snacks",
+        "Calories":0.0400095602
+    },
+    {
+        "Food":"manteiga de amendoim com peda\u00e7os",
+        "Category":"en:peanut-butters",
+        "Calories":0.0614005736
+    },
+    {
+        "Food":"powder - cheese blend",
+        "Category":"en:groceries",
+        "Calories":0.0036089866
+    },
+    {
+        "Food":"owmy",
+        "Category":"en:supplement",
+        "Calories":0.0003585086
+    },
+    {
+        "Food":"cappy \u043f\u043e\u0440\u0442\u043e\u043a\u0430\u043b",
+        "Category":"en:orange-juices-from-concentrate",
+        "Calories":0.0044933078
+    },
+    {
+        "Food":"d\u00e9lice de 8 l\u00e9gumes",
+        "Category":"en:cold-soups",
+        "Calories":0.0053059273
+    },
+    {
+        "Food":"p\u00e9pites de figue",
+        "Category":"en:dried-figs",
+        "Calories":0.033293499
+    },
+    {
+        "Food":"potato chips",
+        "Category":"en:crisps",
+        "Calories":0.0536089866
+    },
+    {
+        "Food":"mousse au chocolat noir",
+        "Category":"fr:mousses-au-chocolat-noir",
+        "Calories":0.0321940727
+    },
+    {
+        "Food":"wild raw honey",
+        "Category":"en:raw-honey",
+        "Calories":0.0334130019
+    },
+    {
+        "Food":"isagenix",
+        "Category":"en:protein-shakes",
+        "Calories":0.0403202677
+    },
+    {
+        "Food":"candy crush, fruit snacks, assorted",
+        "Category":"en:confectioneries",
+        "Calories":0.0286089866
+    },
+    {
+        "Food":"isabar",
+        "Category":"en:cereal-bars",
+        "Calories":0.038001912
+    },
+    {
+        "Food":"chausson au pomme",
+        "Category":"en:apple-turnovers",
+        "Calories":0.0315965583
+    },
+    {
+        "Food":"milk chocolate rose",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0570984704
+    },
+    {
+        "Food":"migni beignets assortis",
+        "Category":"en:sweet-fritters",
+        "Calories":0.0440965583
+    },
+    {
+        "Food":"genepro",
+        "Category":"en:protien-powder",
+        "Calories":0.0400095602
+    },
+    {
+        "Food":"farina avena",
+        "Category":"en:cereals-and-their-products",
+        "Calories":0.0374043977
+    },
+    {
+        "Food":"proteine whey vegetal",
+        "Category":"en:protein-powders",
+        "Calories":0.0408938815
+    },
+    {
+        "Food":"romaine lettuce",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.001792543
+    },
+    {
+        "Food":"savoiardi",
+        "Category":"en:cheese-fondue-from-savoy",
+        "Calories":0.0364005736
+    },
+    {
+        "Food":"greek nonfat yogurt",
+        "Category":"en:yogurts",
+        "Calories":0.0076481836
+    },
+    {
+        "Food":"mini cookies",
+        "Category":"en:drop-cookies",
+        "Calories":0.0503107075
+    },
+    {
+        "Food":"whey protein aus molke 500 gramm vanilla",
+        "Category":"en:protein-powders",
+        "Calories":0.039292543
+    },
+    {
+        "Food":"melody",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0377629063
+    },
+    {
+        "Food":"pinto bean",
+        "Category":"en:asian-style-ready-meal",
+        "Calories":0.0002151052
+    },
+    {
+        "Food":"sabl\u00e9s coco lait",
+        "Category":"en:shortbread-cookies",
+        "Calories":0.0525095602
+    },
+    {
+        "Food":"whopper",
+        "Category":"en:omega-3",
+        "Calories":0.0227772467
+    },
+    {
+        "Food":"extreme mass gainer",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0395076482
+    },
+    {
+        "Food":"bio whey isolat",
+        "Category":"en:artificial-sugar-substitutes",
+        "Calories":0.0430210325
+    },
+    {
+        "Food":"tom\u2019s of maine fresh mint",
+        "Category":"fr:shake-proteine",
+        "Calories":0.0350621415
+    },
+    {
+        "Food":"welch's, freeze-dried mango slices",
+        "Category":"en:snacks",
+        "Calories":0.0349904398
+    },
+    {
+        "Food":"pur\u00e9e de noisettes sans sel bio",
+        "Category":"fr:pate-de-noix",
+        "Calories":0.0693355641
+    },
+    {
+        "Food":"la eur, 3 milk soft ripened cheese",
+        "Category":"en:cheeses",
+        "Calories":0.0282026769
+    },
+    {
+        "Food":"beurre de cacahu\u00e8tes",
+        "Category":"en:peanut-butters",
+        "Calories":0.0614005736
+    },
+    {
+        "Food":"frollini al cacao",
+        "Category":"en:biscuits",
+        "Calories":0.0402963671
+    },
+    {
+        "Food":"brochettes d'abats de boeuf",
+        "Category":"en:beef-skewers",
+        "Calories":0.0130975143
+    },
+    {
+        "Food":"dehydrated potato shreds",
+        "Category":"en:mixed-vegetables",
+        "Calories":0.0354923518
+    },
+    {
+        "Food":"complete",
+        "Category":"en:meal-replacements",
+        "Calories":0.0375
+    },
+    {
+        "Food":"hierba de trigo",
+        "Category":"en:groceries",
+        "Calories":0.0255975143
+    },
+    {
+        "Food":"velout\u00e9 de 10 l\u00e9gumes",
+        "Category":"en:cream-of-vegetable-soups",
+        "Calories":0.0032026769
+    },
+    {
+        "Food":"sirop de dattes",
+        "Category":"en:date-syrups",
+        "Calories":0.0300908222
+    },
+    {
+        "Food":"huile d'olive extra vierge bio",
+        "Category":"en:virgin-olive-oils",
+        "Calories":0.0884321224
+    },
+    {
+        "Food":"biscuits aux fruits",
+        "Category":"en:fruit-biscuits",
+        "Calories":0.0466061185
+    },
+    {
+        "Food":"alimento equilibrado",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0397944551
+    },
+    {
+        "Food":"tetley, black tea",
+        "Category":"en:tea-bags",
+        "Calories":0.0000956023
+    },
+    {
+        "Food":"jelly fish",
+        "Category":"en:candies",
+        "Calories":0.0140057361
+    },
+    {
+        "Food":"bio walnusskerne achtel kerne",
+        "Category":"en:walnut-kernels",
+        "Calories":0.0661806883
+    },
+    {
+        "Food":"treccine alla pizzaiola",
+        "Category":"en:snacks",
+        "Calories":0.0323852772
+    },
+    {
+        "Food":"romaine hearts",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.001792543
+    },
+    {
+        "Food":"vintage minis",
+        "Category":"en:honeys",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"teriyaki beef with pineapple rice",
+        "Category":"en:frozen-foods",
+        "Calories":0.0124043977
+    },
+    {
+        "Food":"garofalo gluten free pasta",
+        "Category":"en:dry-pastas",
+        "Calories":0.0361137667
+    },
+    {
+        "Food":"perfectbar",
+        "Category":"en:protein-bars",
+        "Calories":0.0414913958
+    },
+    {
+        "Food":"ryan's, organic juice, apple",
+        "Category":"en:plant-based-beverages",
+        "Calories":0.0045889101
+    },
+    {
+        "Food":"sparkling water",
+        "Category":"en:waters",
+        "Calories":0.0
+    },
+    {
+        "Food":"emojeez, fruit flavored gummies, green apple, orange, fruit punch, lemon, cherry blue raspberry",
+        "Category":"en:confectioneries",
+        "Calories":0.0275095602
+    },
+    {
+        "Food":"queso danbo en fetas",
+        "Category":"bg:\u0434\u0430\u043d\u0431\u043e",
+        "Calories":0.0365678776
+    },
+    {
+        "Food":"the simpsons donuts",
+        "Category":"en:doughnuts",
+        "Calories":0.0469885277
+    },
+    {
+        "Food":"chocolat noir s\u00e9same complet",
+        "Category":"en:dark-chocolate-bar",
+        "Calories":0.0585564054
+    },
+    {
+        "Food":"100% soja protein haselnuss",
+        "Category":"en:protein-powders",
+        "Calories":0.038001912
+    },
+    {
+        "Food":"chromebook",
+        "Category":"en:laptop",
+        "Calories":0.0048040153
+    },
+    {
+        "Food":"jus cerise raisin",
+        "Category":"en:fruit-juices",
+        "Calories":0.0048040153
+    },
+    {
+        "Food":"figs",
+        "Category":"en:figs",
+        "Calories":0.0250956023
+    },
+    {
+        "Food":"pois chiches bio",
+        "Category":"en:canned-chickpeas",
+        "Calories":0.0072418738
+    },
+    {
+        "Food":"lean cuisine salisbury steak with macaroni & cheese",
+        "Category":"en:salisbury-steak",
+        "Calories":0.0092973231
+    },
+    {
+        "Food":"knusper-m\u00fcsli mango",
+        "Category":"en:mueslis-with-fruits",
+        "Calories":0.0280592734
+    },
+    {
+        "Food":"chocolife",
+        "Category":"it:cio",
+        "Calories":0.0455066922
+    },
+    {
+        "Food":"sobe, fruit strip snacks, mango, pineapple",
+        "Category":"en:snacks",
+        "Calories":0.0320984704
+    },
+    {
+        "Food":"protein shake",
+        "Category":"en:shake",
+        "Calories":0.0099904398
+    },
+    {
+        "Food":"caramel flavor apple cider drink",
+        "Category":"en:beverages",
+        "Calories":0.0054015296
+    },
+    {
+        "Food":"pur jus de pommes",
+        "Category":"en:squeezed-apple-juices",
+        "Calories":0.0043977055
+    },
+    {
+        "Food":"nussmischung 4fach",
+        "Category":"en:shelled-nuts",
+        "Calories":0.0647944551
+    },
+    {
+        "Food":"muesli quinoa chia",
+        "Category":"en:breakfast-cereals",
+        "Calories":0.0416108987
+    },
+    {
+        "Food":"herbal tea cinnamon",
+        "Category":"en:tea-bags",
+        "Calories":0.0
+    },
+    {
+        "Food":"anthony's textured vegetable protein",
+        "Category":"en:textured-vegetable-protein",
+        "Calories":0.0291586998
+    },
+    {
+        "Food":"haricots noirs bio",
+        "Category":"en:black-beans",
+        "Calories":0.0057361377
+    },
+    {
+        "Food":"jus de fruit",
+        "Category":"en:fruit-juices",
+        "Calories":0.0054971319
+    },
+    {
+        "Food":"4 beignets \u00e0 la pomme",
+        "Category":"fr:beignets-a-la-pomme",
+        "Calories":0.030999044
+    },
+    {
+        "Food":"all-brann prebiotic",
+        "Category":"en:breakfast-cereals",
+        "Calories":0.0413957935
+    },
+    {
+        "Food":"vegetarian meat substitute bits",
+        "Category":"en:groceries",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"beurre",
+        "Category":"en:margarines-high-in-omega-3",
+        "Calories":0.0467973231
+    },
+    {
+        "Food":"today's temptations, lithuanian rye bread",
+        "Category":"en:breads",
+        "Calories":0.0228011472
+    },
+    {
+        "Food":"pate d'arachide seaux 4,5kg",
+        "Category":"en:peanut-butters",
+        "Calories":0.0610898662
+    },
+    {
+        "Food":"roasted chicken + herb flavour collagen bone broth",
+        "Category":"en:soup-mixes",
+        "Calories":0.0320267686
+    },
+    {
+        "Food":"bakers best, rye bread",
+        "Category":"en:breads",
+        "Calories":0.0255975143
+    },
+    {
+        "Food":"veganes protein natur geschmack",
+        "Category":"en:protein-powders",
+        "Calories":0.0391013384
+    },
+    {
+        "Food":"celery",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.0014101338
+    },
+    {
+        "Food":"huile d'olive vierge extra cuve magali",
+        "Category":"en:virgin-olive-oils",
+        "Calories":0.0809751434
+    },
+    {
+        "Food":"sandwich glac\u00e9 vanille cacao",
+        "Category":"en:cocoa-powders",
+        "Calories":0.0277963671
+    },
+    {
+        "Food":"pain de mie sans gluten",
+        "Category":"en:gluten-free-sliced-breads",
+        "Calories":0.0278919694
+    },
+    {
+        "Food":"candy crush, fruit snacks",
+        "Category":"en:confectioneries",
+        "Calories":0.0309034417
+    },
+    {
+        "Food":"solid milk chocolate",
+        "Category":"en:confectioneries",
+        "Calories":0.0554015296
+    },
+    {
+        "Food":"creamy wheat cereal",
+        "Category":"en:cereals-and-their-products",
+        "Calories":0.0359942639
+    },
+    {
+        "Food":"romaine hearts",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.001792543
+    },
+    {
+        "Food":"gaspacho \u00e0 l'andalouse",
+        "Category":"en:cold-soups",
+        "Calories":0.0026051625
+    },
+    {
+        "Food":"sauce dip \u00e0 la fran\u00e7aise",
+        "Category":"en:dips",
+        "Calories":0.0325047801
+    },
+    {
+        "Food":"smart food white cheddar",
+        "Category":"en:beans",
+        "Calories":1.0
+    },
+    {
+        "Food":"brown sugar",
+        "Category":"en:sugars",
+        "Calories":0.033293499
+    },
+    {
+        "Food":"madeleine bijou chocop\u00e9pites",
+        "Category":"en:madeleines",
+        "Calories":0.0472992352
+    },
+    {
+        "Food":"lagg's, herbal tea, chamomile * mint",
+        "Category":"en:tea-bags",
+        "Calories":0.0
+    },
+    {
+        "Food":"zumosol",
+        "Category":"en:juices-and-nectars",
+        "Calories":0.0043021033
+    },
+    {
+        "Food":"drink mix",
+        "Category":"en:dehydrated-beverages",
+        "Calories":0.0385038241
+    },
+    {
+        "Food":"semillas de c\u00e1\u00f1amo peladas",
+        "Category":"en:cereals-and-their-products",
+        "Calories":0.057791587
+    },
+    {
+        "Food":"bakers best, white bread",
+        "Category":"en:breads",
+        "Calories":0.0234942639
+    },
+    {
+        "Food":"fuji pom blend juice",
+        "Category":"en:plant-based-beverages",
+        "Calories":0.0045889101
+    },
+    {
+        "Food":"sliced yellow cling peaches in peach and pear juice",
+        "Category":"en:canned-drained-peach-in-light-syrup",
+        "Calories":0.0048279159
+    },
+    {
+        "Food":"p\u00e2te \u00e0 tartiner chocolat et noisette",
+        "Category":"en:cocoa-and-hazelnuts-spreads",
+        "Calories":0.0494024857
+    },
+    {
+        "Food":"candy crush, jelly fish, orange, grape, black cherry",
+        "Category":"en:confectioneries",
+        "Calories":0.0349904398
+    },
+    {
+        "Food":"creme de leite nestl\u00e9",
+        "Category":"en:creme-de-leite-bovino-enlatado",
+        "Calories":0.0038240918
+    },
+    {
+        "Food":"bonbons angry birds vert",
+        "Category":"en:candies",
+        "Calories":0.011998088
+    },
+    {
+        "Food":"beurre de cacahu\u00e8tes",
+        "Category":"en:peanut-butters",
+        "Calories":0.0659894837
+    },
+    {
+        "Food":"mct oil powder",
+        "Category":"es:mct",
+        "Calories":0.0700286807
+    },
+    {
+        "Food":"flamiche maroilles chorizo poivrons",
+        "Category":"fr:flamiches",
+        "Calories":0.025501912
+    },
+    {
+        "Food":"marinara",
+        "Category":"en:sample",
+        "Calories":0.0573852772
+    },
+    {
+        "Food":"donuts",
+        "Category":"en:doughnuts",
+        "Calories":0.0378107075
+    },
+    {
+        "Food":"dulce de lecha",
+        "Category":"en:protien",
+        "Calories":0.0359942639
+    },
+    {
+        "Food":"kiraz biber tursusu",
+        "Category":"en:groceries",
+        "Calories":0.0033699809
+    },
+    {
+        "Food":"100% pure raw & unfiltered honey",
+        "Category":"en:honeys",
+        "Calories":0.0333413002
+    },
+    {
+        "Food":"hafermilch",
+        "Category":"en:oat-based-drinks",
+        "Calories":0.0045889101
+    },
+    {
+        "Food":"p\u00e2t\u00e9 de foie sup\u00e9rieur",
+        "Category":"en:liver-pates",
+        "Calories":0.0304971319
+    },
+    {
+        "Food":"tisane bio rooibos de noel",
+        "Category":"en:rooibos",
+        "Calories":0.0000956023
+    },
+    {
+        "Food":"the madelaine chocolate company, solid dark chocolate",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0527963671
+    },
+    {
+        "Food":"moutarde au mo\u00fbt de raisin",
+        "Category":"en:groceries",
+        "Calories":0.0223709369
+    },
+    {
+        "Food":"\u0431\u0443\u0440\u0433\u0435\u0440 \u0431\u0443\u043b\u043e\u0447\u043a\u0430",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0260038241
+    },
+    {
+        "Food":"sliced sourdough bread",
+        "Category":"en:sliced-breads",
+        "Calories":0.0211520076
+    },
+    {
+        "Food":"compote all\u00e9g\u00e9e pomme",
+        "Category":"en:apple-compotes",
+        "Calories":0.0071940727
+    },
+    {
+        "Food":"organic fresh young chicken",
+        "Category":"en:pizza-sauces",
+        "Calories":0.0000956023
+    },
+    {
+        "Food":"baked crisps",
+        "Category":"en:crisps",
+        "Calories":0.044000956
+    },
+    {
+        "Food":"artikel 1",
+        "Category":"en:vegetables",
+        "Calories":0.0200764818
+    },
+    {
+        "Food":"food grade corn",
+        "Category":"en:chocolate-and-hazelnut-cookies",
+        "Calories":0.050501912
+    },
+    {
+        "Food":"cr\u00e8me d'olives noires bio kazidomi",
+        "Category":"en:black-tapenades",
+        "Calories":0.0381453155
+    },
+    {
+        "Food":"focaccia senza glutine all\u2019olio extravergine di oliva",
+        "Category":"en:focaccia",
+        "Calories":0.0296367113
+    },
+    {
+        "Food":"mehrkomponeneten protein 90 c6 haselnu\u00df",
+        "Category":"en:protein-powders",
+        "Calories":0.0366395793
+    },
+    {
+        "Food":"petit hoppelli noir",
+        "Category":"en:quinoa",
+        "Calories":0.0544933078
+    },
+    {
+        "Food":"turron de trufa",
+        "Category":"en:turron",
+        "Calories":0.0477055449
+    },
+    {
+        "Food":"chair \u00e0 saucisse tartufata",
+        "Category":"en:hummus",
+        "Calories":0.0588193117
+    },
+    {
+        "Food":"chocolat",
+        "Category":"en:meals",
+        "Calories":0.0086759082
+    },
+    {
+        "Food":"pur\u00e9e de noix de cajou crues bio",
+        "Category":"fr:pate-de-noix",
+        "Calories":0.055999044
+    },
+    {
+        "Food":"mini bifteki",
+        "Category":"en:frozen-meats",
+        "Calories":0.030210325
+    },
+    {
+        "Food":"crabe chair et pattes",
+        "Category":"en:crab",
+        "Calories":0.0070028681
+    },
+    {
+        "Food":"crostatine albicocca",
+        "Category":"en:crostatina",
+        "Calories":0.0400334608
+    },
+    {
+        "Food":"pureboost, clean energy mix",
+        "Category":"en:water-enhancer",
+        "Calories":0.021749522
+    },
+    {
+        "Food":"riz de camargue long complet",
+        "Category":"en:camargue-rices",
+        "Calories":0.0359942639
+    },
+    {
+        "Food":"petit beurre tablette choco",
+        "Category":"fr:gouter-petit-beurre-chocolat",
+        "Calories":0.051123327
+    },
+    {
+        "Food":"baguette constance",
+        "Category":"en:baguettes",
+        "Calories":0.0282982792
+    },
+    {
+        "Food":"saumon fum\u00e9 cajun",
+        "Category":"en:smoked-salmons",
+        "Calories":0.0213910134
+    },
+    {
+        "Food":"confiture extra de fraise bio",
+        "Category":"en:strawberry-jams",
+        "Calories":0.0168499044
+    },
+    {
+        "Food":"creamy peanut butter",
+        "Category":"en:protein",
+        "Calories":0.0450047801
+    },
+    {
+        "Food":"welch's, pb&j trail mix, grape",
+        "Category":"en:snacks",
+        "Calories":0.0471080306
+    },
+    {
+        "Food":"formula 1 mirtillo",
+        "Category":"en:alimenti-in-scatola-pasti-supplementi-dietetici",
+        "Calories":0.0390057361
+    },
+    {
+        "Food":"pommes cannelle s\u00e9ch\u00e9es",
+        "Category":"en:dried-fruits",
+        "Calories":0.029206501
+    },
+    {
+        "Food":"beignets \u00e0 la pomme",
+        "Category":"en:sweet-fritters",
+        "Calories":0.0300908222
+    },
+    {
+        "Food":"piasten, chocolate assortment",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0484942639
+    },
+    {
+        "Food":"biscotti proteici",
+        "Category":"it:biscotti-proteici",
+        "Calories":0.042710325
+    },
+    {
+        "Food":"55 protein  bar",
+        "Category":"en:protein-energy-bars",
+        "Calories":0.0463910134
+    },
+    {
+        "Food":"saucisses de poulet saveur aux herbes",
+        "Category":"en:chicken-sausages",
+        "Calories":0.0233986616
+    },
+    {
+        "Food":"designer whey protein vanilla",
+        "Category":"en:protein-powders",
+        "Calories":0.0374282983
+    },
+    {
+        "Food":"boisson instantan\u00e9e tea",
+        "Category":"en:brewed-infusions-without-sugar",
+        "Calories":0.0349904398
+    },
+    {
+        "Food":"bush\u2019s brown sugar hickory baked beans",
+        "Category":"en:fresh-parsley",
+        "Calories":0.0020076482
+    },
+    {
+        "Food":"alfajor dulce de leche",
+        "Category":"en:alfajores",
+        "Calories":0.0305927342
+    },
+    {
+        "Food":"croissant au beurre",
+        "Category":"en:butter-croissants",
+        "Calories":0.0384082218
+    },
+    {
+        "Food":"mcvitie's, digestives cheesecake, lemon",
+        "Category":"en:biscuits",
+        "Calories":0.0509082218
+    },
+    {
+        "Food":"mini beignets assortis",
+        "Category":"en:sweet-fritters",
+        "Calories":0.0440965583
+    },
+    {
+        "Food":"madeleines chocolait",
+        "Category":"en:chocolate-madeleines",
+        "Calories":0.0460325048
+    },
+    {
+        "Food":"cottage cheese",
+        "Category":"en:dairies",
+        "Calories":0.0097275335
+    },
+    {
+        "Food":"broccoli crown",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.0033938815
+    },
+    {
+        "Food":"multi collagen gummies",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0799952199
+    },
+    {
+        "Food":"all natural baked not fried yellow corn tortilla chips",
+        "Category":"en:corn-chips",
+        "Calories":0.0429015296
+    },
+    {
+        "Food":"spray sweetener",
+        "Category":"en:sugars",
+        "Calories":0.0
+    },
+    {
+        "Food":"cookie pro",
+        "Category":"en:biscuits",
+        "Calories":0.0444072658
+    },
+    {
+        "Food":"pur jus de pomme",
+        "Category":"en:squeezed-apple-juices",
+        "Calories":0.0052820268
+    },
+    {
+        "Food":"vegan grilled cheese toastie crisps",
+        "Category":"en:potato-crisps",
+        "Calories":0.04708413
+    },
+    {
+        "Food":"croissant pure beurre x2",
+        "Category":"en:butter-croissants",
+        "Calories":0.0429015296
+    },
+    {
+        "Food":"welch's, freeze-dried mango slices",
+        "Category":"en:snacks",
+        "Calories":0.035707457
+    },
+    {
+        "Food":"risto piatti fusilli alla sorrentina senza glutine",
+        "Category":"en:meals",
+        "Calories":0.0141969407
+    },
+    {
+        "Food":"the best chocolate chip cookies in the world",
+        "Category":"en:biscuits",
+        "Calories":0.0131931166
+    },
+    {
+        "Food":"coca-cola",
+        "Category":"en:sodas",
+        "Calories":0.004206501
+    },
+    {
+        "Food":"macaron",
+        "Category":"en:macarons",
+        "Calories":0.0473948375
+    },
+    {
+        "Food":"diablo gaufrette sans sucre",
+        "Category":"en:confectioneries",
+        "Calories":0.0472992352
+    },
+    {
+        "Food":"casoncelli alla bresciana",
+        "Category":"it:casoncelli",
+        "Calories":0.0238049713
+    },
+    {
+        "Food":"tomato sauce with eggplants",
+        "Category":"en:groceries",
+        "Calories":0.0055927342
+    },
+    {
+        "Food":"boisson nutritionnelle formula 1 strawberry",
+        "Category":"en:meal-replacements",
+        "Calories":0.0349904398
+    },
+    {
+        "Food":"filet de poulet r\u00f4ti",
+        "Category":"fr:filets-de-poulet-rotis",
+        "Calories":0.0141013384
+    },
+    {
+        "Food":"lactaid, ice cream, vanilla",
+        "Category":"en:frozen-desserts",
+        "Calories":0.0211042065
+    },
+    {
+        "Food":"gaufres",
+        "Category":"en:biscuits-and-cakes",
+        "Calories":0.0325047801
+    },
+    {
+        "Food":"chokodomi p\u00e2te \u00e0 tartiner chocolat noisettes bio",
+        "Category":"en:cocoa-and-hazelnuts-spreads",
+        "Calories":0.0569311663
+    },
+    {
+        "Food":"organic peanut butter powder",
+        "Category":"en:risottos",
+        "Calories":0.0217017208
+    },
+    {
+        "Food":"bebida de prote\u00edna en polvo \/ prote\u00ednas drink milk",
+        "Category":"en:protein-shakes",
+        "Calories":0.0420650096
+    },
+    {
+        "Food":"nutrional shake",
+        "Category":"en:beverages",
+        "Calories":0.0397944551
+    },
+    {
+        "Food":"apple",
+        "Category":"en:granny-smith-apples",
+        "Calories":0.0201959847
+    },
+    {
+        "Food":"whey protein aus molke vanilla",
+        "Category":"en:protein-powders",
+        "Calories":0.039292543
+    },
+    {
+        "Food":"birthday cake flavor protein",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0403441683
+    },
+    {
+        "Food":"\u043f\u0438\u0434\u0435 \u0441 \u043a\u0432\u0430\u0441",
+        "Category":"en:\u0445\u043b\u044f\u0431",
+        "Calories":0.0239244742
+    },
+    {
+        "Food":"burrito",
+        "Category":"en:burritos",
+        "Calories":0.0163957935
+    },
+    {
+        "Food":"eclairs",
+        "Category":"en:chocolate-eclairs",
+        "Calories":0.023709369
+    },
+    {
+        "Food":"hatchers caramel filled milk chocolate",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0553059273
+    },
+    {
+        "Food":"sunquick",
+        "Category":"en:beverages",
+        "Calories":0.0085086042
+    },
+    {
+        "Food":"the madelaine chocolate company, solid dark chocolate",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0525095602
+    },
+    {
+        "Food":"fresh spinach",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.0023900574
+    },
+    {
+        "Food":"jus de pomme",
+        "Category":"en:apple-juices",
+        "Calories":0.0043021033
+    },
+    {
+        "Food":"penne trigo sarraceno",
+        "Category":"en:penne",
+        "Calories":0.0347036329
+    },
+    {
+        "Food":"candy crush, mixed fruit gummies, blue raspberry, green apple, lemon, cherry, orange, grape",
+        "Category":"en:confectioneries",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"the best chocolate chip cookies in the world",
+        "Category":"en:biscuits",
+        "Calories":0.0131931166
+    },
+    {
+        "Food":"leicht&cross",
+        "Category":"en:extruded-crispbreads",
+        "Calories":0.0370697897
+    },
+    {
+        "Food":"honduran king prawns m&s",
+        "Category":"en:cooked-prawns",
+        "Calories":0.0114722753
+    },
+    {
+        "Food":"bone broth powder",
+        "Category":"en:protein-shakes",
+        "Calories":0.040917782
+    },
+    {
+        "Food":"welch's, red apple chips",
+        "Category":"en:snacks",
+        "Calories":0.0380975143
+    },
+    {
+        "Food":"croissant pur beurre",
+        "Category":"en:butter-croissants",
+        "Calories":0.042710325
+    },
+    {
+        "Food":"2 no chicken kievs",
+        "Category":"en:chicken-kievs-substitutes",
+        "Calories":0.0221080306
+    },
+    {
+        "Food":"almond butter",
+        "Category":"en:almond-butters",
+        "Calories":0.0625
+    },
+    {
+        "Food":"fanta ananas",
+        "Category":"en:beverages",
+        "Calories":0.0050669216
+    },
+    {
+        "Food":"pain complet",
+        "Category":"en:wholemeal-breads",
+        "Calories":0.0256931166
+    },
+    {
+        "Food":"choco changer salted caramel",
+        "Category":"en:chocolates",
+        "Calories":0.0537045889
+    },
+    {
+        "Food":"whey protein aus molke 1000 gramm vanilla",
+        "Category":"en:protein-powders",
+        "Calories":0.039292543
+    },
+    {
+        "Food":"leffe",
+        "Category":"fr:pates-a-tartiner",
+        "Calories":0.0058078394
+    },
+    {
+        "Food":"melon medley",
+        "Category":"en:fruits",
+        "Calories":0.0029636711
+    },
+    {
+        "Food":"candy crush, color bombs fun book",
+        "Category":"en:confectioneries",
+        "Calories":0.0450047801
+    },
+    {
+        "Food":"nutrastart",
+        "Category":"en:bodybuilding-supplements",
+        "Calories":0.0078154876
+    },
+    {
+        "Food":"candy crush, rainbow bites, strawberry, watermelon",
+        "Category":"en:confectioneries",
+        "Calories":0.0375
+    },
+    {
+        "Food":"tortitas de trigo- roti wraps",
+        "Category":"en:wheat-flatbreads",
+        "Calories":0.0288957935
+    },
+    {
+        "Food":"welch's, dried cranberries, concord grape",
+        "Category":"en:snacks",
+        "Calories":0.0325047801
+    },
+    {
+        "Food":"saint hubert",
+        "Category":"en:plant-based-foods",
+        "Calories":0.4700047801
+    },
+    {
+        "Food":"pur\u00e9e mix tropical harmony + aloe",
+        "Category":"en:syrups",
+        "Calories":0.0365678776
+    },
+    {
+        "Food":"bijou tradition p\u00e2tissiere",
+        "Category":"en:madeleines",
+        "Calories":0.0509082218
+    },
+    {
+        "Food":"fruit snack",
+        "Category":"en:confectioneries",
+        "Calories":0.0275095602
+    },
+    {
+        "Food":"saint hubert 41",
+        "Category":"en:margarines",
+        "Calories":0.036998088
+    },
+    {
+        "Food":"gigli pasta di legumi",
+        "Category":"en:pastas",
+        "Calories":0.0306883365
+    },
+    {
+        "Food":"baguette bressan",
+        "Category":"en:baguettes",
+        "Calories":0.0159894837
+    },
+    {
+        "Food":"glace  bofrost",
+        "Category":"en:ice-creams",
+        "Calories":0.0300908222
+    },
+    {
+        "Food":"bisto gravy powder",
+        "Category":"en:sauces",
+        "Calories":0.0239961759
+    },
+    {
+        "Food":"velout\u00e9 de tomates",
+        "Category":"en:tomato-soups",
+        "Calories":0.0036089866
+    },
+    {
+        "Food":"isalean shake chocolate",
+        "Category":"en:bodybuilding-supplements",
+        "Calories":0.0239961759
+    },
+    {
+        "Food":"galette des rois frangipane",
+        "Category":"en:twelfth-night-cake-with-almond-paste",
+        "Calories":0.0467973231
+    },
+    {
+        "Food":"whey birthday cake shake",
+        "Category":"en:protein-powders",
+        "Calories":0.0403441683
+    },
+    {
+        "Food":"ginseng tea",
+        "Category":"en:beverages",
+        "Calories":0.025
+    },
+    {
+        "Food":"croissant",
+        "Category":"en:butter-croissants",
+        "Calories":0.0030114723
+    },
+    {
+        "Food":"krautsalat",
+        "Category":"en:dried-figs",
+        "Calories":0.017041109
+    },
+    {
+        "Food":"pindakaas",
+        "Category":"en:peanut-butters",
+        "Calories":0.0625
+    },
+    {
+        "Food":"velout\u00e9 de 8 l\u00e9gumes",
+        "Category":"en:vegetable-soups",
+        "Calories":0.0043499044
+    },
+    {
+        "Food":"organic coconut sparkling spring water",
+        "Category":"en:waters",
+        "Calories":0.0
+    },
+    {
+        "Food":"organic french acacia honey",
+        "Category":"en:acacia-honeys",
+        "Calories":0.005999044
+    },
+    {
+        "Food":"protein powder",
+        "Category":"en:protein-powders",
+        "Calories":0.0365678776
+    },
+    {
+        "Food":"cheese toastie with heinz beanz flavour potato crisps",
+        "Category":"en:potato-crisps",
+        "Calories":0.0511472275
+    },
+    {
+        "Food":"tostadas de ositos",
+        "Category":"en:toasts",
+        "Calories":0.0449330784
+    },
+    {
+        "Food":"honest kids organic berry good lemonade",
+        "Category":"en:sodas",
+        "Calories":0.0034894837
+    },
+    {
+        "Food":"chocolate walnut bliss snack bites",
+        "Category":"en:sweet-snacks",
+        "Calories":0.0391969407
+    },
+    {
+        "Food":"steaks hach\u00e9 pur boeuf surgel\u00e9s 15% mg",
+        "Category":"en:minced-beef-steak-with-15-fat",
+        "Calories":0.0021032505
+    },
+    {
+        "Food":"lagg's, bronchtea",
+        "Category":"en:tea-bags",
+        "Calories":0.0
+    },
+    {
+        "Food":"isalean whole blend plant-based",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0415869981
+    },
+    {
+        "Food":"levadura nutricional",
+        "Category":"en:yeast",
+        "Calories":0.0343929254
+    },
+    {
+        "Food":"lagg's, chamomile herbal tea",
+        "Category":"en:tea-bags",
+        "Calories":0.0
+    },
+    {
+        "Food":"best sweet-potato cookies",
+        "Category":"en:biscuits",
+        "Calories":0.038790631
+    },
+    {
+        "Food":"soupe potiron et kiri",
+        "Category":"en:vegetable-soups",
+        "Calories":0.0038479924
+    },
+    {
+        "Food":"bio flohsamen",
+        "Category":"en:energy-drinks",
+        "Calories":0.0272227533
+    },
+    {
+        "Food":"b-ready",
+        "Category":"en:chocolate-biscuits",
+        "Calories":0.0109942639
+    },
+    {
+        "Food":"salam de var\u0103",
+        "Category":"en:salami",
+        "Calories":0.0336042065
+    },
+    {
+        "Food":"pears general",
+        "Category":"en:fresh-pears",
+        "Calories":0.0101099426
+    },
+    {
+        "Food":"55 protein bar",
+        "Category":"en:protein-bars",
+        "Calories":0.019000956
+    },
+    {
+        "Food":"velout\u00e9 de potiron et graines de courge bio",
+        "Category":"en:pumpkin-soups",
+        "Calories":0.0032982792
+    },
+    {
+        "Food":"mixed berries fruit snacks",
+        "Category":"en:confectioneries",
+        "Calories":0.0275095602
+    },
+    {
+        "Food":"lagg's, shave grass herbal tea",
+        "Category":"en:tea-bags",
+        "Calories":0.0
+    },
+    {
+        "Food":"l\u00e9gumes et vermicelles",
+        "Category":"en:reheatable-mixed-vegetables-soup",
+        "Calories":0.0037045889
+    },
+    {
+        "Food":"zaatar",
+        "Category":"en:plain-madeleines",
+        "Calories":0.0442638623
+    },
+    {
+        "Food":"wafers",
+        "Category":"en:biscuits",
+        "Calories":0.0516969407
+    },
+    {
+        "Food":"moringa",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0381931166
+    },
+    {
+        "Food":"mendiants - studentenhaver",
+        "Category":"en:nuts",
+        "Calories":0.0437619503
+    },
+    {
+        "Food":"p\u00e2te \u00e0 tartiner chocolat noisette",
+        "Category":"en:cocoa-and-hazelnuts-spreads",
+        "Calories":0.0541347992
+    },
+    {
+        "Food":"white granulated sugar",
+        "Category":"en:sugars",
+        "Calories":0.0375
+    },
+    {
+        "Food":"protein  powder",
+        "Category":"en:protein-powders",
+        "Calories":0.0383365201
+    },
+    {
+        "Food":"boisson \u00e0 l'aloe vera",
+        "Category":"en:groceries",
+        "Calories":0.0012189293
+    },
+    {
+        "Food":"golden raisins california",
+        "Category":"en:raisins",
+        "Calories":0.0301147228
+    },
+    {
+        "Food":"chaussons aux abricots",
+        "Category":"fr:chaussons-aux-abricots",
+        "Calories":0.0351099426
+    },
+    {
+        "Food":"protein drink mix",
+        "Category":"en:protein-powders",
+        "Calories":0.0109942639
+    },
+    {
+        "Food":"birnen halbe frucht",
+        "Category":"en:fruits-based-foods",
+        "Calories":0.0066921606
+    },
+    {
+        "Food":"organic tomato sauce arrabiata",
+        "Category":"en:groceries",
+        "Calories":0.0065965583
+    },
+    {
+        "Food":"pro-tf chocolate",
+        "Category":"en:protein-powders",
+        "Calories":0.0411089866
+    },
+    {
+        "Food":"snowballs cr\u00e9ma lapte",
+        "Category":"en:confectioneries",
+        "Calories":0.0571940727
+    },
+    {
+        "Food":"raw shrimp",
+        "Category":"en:frozen-seafood",
+        "Calories":0.0059034417
+    },
+    {
+        "Food":"soupe carottes potiron",
+        "Category":"en:vegetable-soups",
+        "Calories":0.004206501
+    },
+    {
+        "Food":"peanut brittle",
+        "Category":"en:confectioneries",
+        "Calories":0.0446223709
+    },
+    {
+        "Food":"sour fruit gummies",
+        "Category":"en:candies",
+        "Calories":0.0325047801
+    },
+    {
+        "Food":"cordon bleu de volaille bio",
+        "Category":"en:poultry-cordons-bleus",
+        "Calories":0.0233986616
+    },
+    {
+        "Food":"a\u00e7ai",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0533938815
+    },
+    {
+        "Food":"caffe con estratto di ganoderna",
+        "Category":"de:parf\u00fcm",
+        "Calories":0.0325047801
+    },
+    {
+        "Food":"cool mint flavor dental gum, cool mint",
+        "Category":"en:confectioneries",
+        "Calories":0.0200047801
+    },
+    {
+        "Food":"fleischk\u00e4sbr\u00e4t fein zerkleinert, gep\u00f6kelt, zum backen",
+        "Category":"de:fleischk\u00e4se",
+        "Calories":0.0272705545
+    },
+    {
+        "Food":"linguine pastasecca",
+        "Category":"it:pasta-di-frumento",
+        "Calories":0.0328154876
+    },
+    {
+        "Food":"kombucha",
+        "Category":"en:kombuchas",
+        "Calories":0.0001912046
+    },
+    {
+        "Food":"baharat",
+        "Category":"fr:huiles-de-ricin",
+        "Calories":0.038001912
+    },
+    {
+        "Food":"mini-naan-dippers",
+        "Category":"en:naans",
+        "Calories":0.0287284895
+    },
+    {
+        "Food":"cauliflower & broccoli vegetable patties",
+        "Category":"en:vegetable-patties",
+        "Calories":0.0099904398
+    },
+    {
+        "Food":"lindt williams, liquor chocolate with williams pear",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0467017208
+    },
+    {
+        "Food":"porridge",
+        "Category":"en:porridge",
+        "Calories":0.0376434034
+    },
+    {
+        "Food":"fine chocolate candy bar, dark chocolate",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0400095602
+    },
+    {
+        "Food":"pago smoothie",
+        "Category":"en:smoothies",
+        "Calories":0.0055927342
+    },
+    {
+        "Food":"rainbow pack",
+        "Category":"en:berries",
+        "Calories":0.0051386233
+    },
+    {
+        "Food":"herbalife boisson instantan\u00e9e th\u00e9",
+        "Category":"fr:poudre",
+        "Calories":0.0362810707
+    },
+    {
+        "Food":"sauce tomate aux l\u00e9gumes bio",
+        "Category":"en:groceries",
+        "Calories":0.0062141491
+    },
+    {
+        "Food":"pesto rosso",
+        "Category":"en:groceries",
+        "Calories":0.0451003824
+    },
+    {
+        "Food":"mini baguette",
+        "Category":"en:breads",
+        "Calories":0.0248087954
+    },
+    {
+        "Food":"cheddar tranches",
+        "Category":"en:cheeses",
+        "Calories":0.0416108987
+    },
+    {
+        "Food":"beignets chocolats noisettes decongel\u00e9",
+        "Category":"en:sweet-fritters",
+        "Calories":0.0393881453
+    },
+    {
+        "Food":"iodized salt",
+        "Category":"en:groceries",
+        "Calories":0.0
+    },
+    {
+        "Food":"candy crush, color bombs chocolate candy",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0450047801
+    },
+    {
+        "Food":"soft chewy twisted candy bites",
+        "Category":"en:confectioneries",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"honey cornbread muffin mix",
+        "Category":"en:cooking-helpers",
+        "Calories":0.0405114723
+    },
+    {
+        "Food":"organic tomato sauce arrabiata",
+        "Category":"en:groceries",
+        "Calories":0.0065965583
+    },
+    {
+        "Food":"the best peanut butter cookies",
+        "Category":"en:biscuits",
+        "Calories":0.0407026769
+    },
+    {
+        "Food":"olive & za\u2019artar maine crisp",
+        "Category":"en:brazil-nuts",
+        "Calories":0.0353011472
+    },
+    {
+        "Food":"welch's, freeze-dried apple slices",
+        "Category":"en:snacks",
+        "Calories":0.035707457
+    },
+    {
+        "Food":"piadina romagnola alla riminese all'olio extra vergine di oliva",
+        "Category":"en:piadina",
+        "Calories":0.0303537285
+    },
+    {
+        "Food":"the madelaine chocolate company, solid milk chocolate",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0555927342
+    },
+    {
+        "Food":"watermelon",
+        "Category":"en:watermelons",
+        "Calories":0.0030114723
+    },
+    {
+        "Food":"petits pois verts bio",
+        "Category":"en:canned-peas",
+        "Calories":0.0072418738
+    },
+    {
+        "Food":"tikka masala",
+        "Category":"en:groceries",
+        "Calories":0.0081978967
+    },
+    {
+        "Food":"v-protein",
+        "Category":"en:proteinpulver",
+        "Calories":0.0372131931
+    },
+    {
+        "Food":"houmous oignons caram\u00e9lis\u00e9s",
+        "Category":"en:groceries",
+        "Calories":0.0233508604
+    },
+    {
+        "Food":"coca",
+        "Category":"en:beverages",
+        "Calories":0.0000956023
+    },
+    {
+        "Food":"pur\u00e9e d'amandes blanches grill\u00e9es bio",
+        "Category":"fr:pate-de-noix",
+        "Calories":0.0652007648
+    },
+    {
+        "Food":"p\u00e2te a tartiner",
+        "Category":"en:hazelnut-spreads",
+        "Calories":0.0465105163
+    },
+    {
+        "Food":"tiramisu cappuccino",
+        "Category":"en:coffee-tiramisu",
+        "Calories":0.0289913958
+    },
+    {
+        "Food":"spirulina from france",
+        "Category":"en:spirulina",
+        "Calories":0.0390057361
+    },
+    {
+        "Food":"pur\u00e9e d'amandes blanches crues bio",
+        "Category":"fr:pate-de-noix",
+        "Calories":0.0652007648
+    },
+    {
+        "Food":"vital wheat gluten",
+        "Category":"en:wraps",
+        "Calories":0.0109942639
+    },
+    {
+        "Food":"velout\u00e9 de potiron",
+        "Category":"en:pumpkin-soups",
+        "Calories":0.0030114723
+    },
+    {
+        "Food":"mortadelices a la proven\u00e7ale",
+        "Category":"en:prepared-meats",
+        "Calories":0.0184034417
+    },
+    {
+        "Food":"protein break",
+        "Category":"en:bodybuilding-supplements",
+        "Calories":0.0446940727
+    },
+    {
+        "Food":"celery hearts",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.0014101338
+    },
+    {
+        "Food":"beignet chocolat",
+        "Category":"fr:beignets-au-chocolat",
+        "Calories":0.0385038241
+    },
+    {
+        "Food":"solid dark chocolate",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0526051625
+    },
+    {
+        "Food":"mazarella panees",
+        "Category":"en:cheeses",
+        "Calories":0.0318116635
+    },
+    {
+        "Food":"pain epeautre",
+        "Category":"fr:pain-a-l-epeautre",
+        "Calories":0.0255975143
+    },
+    {
+        "Food":"baguettes c\u00e9r\u00e9ales",
+        "Category":"en:baguettes",
+        "Calories":0.0268881453
+    },
+    {
+        "Food":"trader joe's, cornichons",
+        "Category":"en:salted-snacks",
+        "Calories":0.001792543
+    },
+    {
+        "Food":"truffes fantaisie biologiques",
+        "Category":"en:chocolate-truffles",
+        "Calories":0.0639101338
+    },
+    {
+        "Food":"gaspacho \u00e0 l'andalouse",
+        "Category":"en:cold-soups",
+        "Calories":0.0026529637
+    },
+    {
+        "Food":"ryan's, lemonade",
+        "Category":"en:sodas",
+        "Calories":0.0054015296
+    },
+    {
+        "Food":"beignet moelleux a la pomme",
+        "Category":"en:sweet-fritters",
+        "Calories":0.0298996176
+    },
+    {
+        "Food":"spray candy",
+        "Category":"en:confectioneries",
+        "Calories":0.0048996176
+    },
+    {
+        "Food":"rustici pasta legumi",
+        "Category":"en:gluten-free-pasta",
+        "Calories":0.0306883365
+    },
+    {
+        "Food":"polvo para preparar bebidas",
+        "Category":"en:instant-beverages",
+        "Calories":0.0358508604
+    },
+    {
+        "Food":"li\u00e9 big pursoup moulin\u00e9 de 10 l\u00e9gumes",
+        "Category":"en:vegetable-soups",
+        "Calories":0.003585086
+    },
+    {
+        "Food":"brins de chococaramel",
+        "Category":"fr:biscuits-au-caramel",
+        "Calories":0.0462954111
+    },
+    {
+        "Food":"peanut butter filled pretzels",
+        "Category":"en:peanut-filled",
+        "Calories":0.0485181644
+    },
+    {
+        "Food":"proteine isolate",
+        "Category":"en:protein-powders",
+        "Calories":0.0375
+    },
+    {
+        "Food":"pumpkin pie flavored apple cider drink, pumpkin pie",
+        "Category":"en:beverages",
+        "Calories":0.0058078394
+    },
+    {
+        "Food":"filet de poulet extra tendre thym citron",
+        "Category":"en:chicken-breasts",
+        "Calories":0.0108030593
+    },
+    {
+        "Food":"brochettes dinde",
+        "Category":"en:turkeys",
+        "Calories":0.013001912
+    },
+    {
+        "Food":"powder collagen peptides",
+        "Category":"en:collogen-peptides",
+        "Calories":0.0070028681
+    },
+    {
+        "Food":"quinoa",
+        "Category":"en:cereal-grains",
+        "Calories":0.0342973231
+    },
+    {
+        "Food":"2 heads lettuce",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.0010994264
+    },
+    {
+        "Food":"dattes d\u00e9noyaut\u00e9es",
+        "Category":"en:pitted-dates",
+        "Calories":0.0289913958
+    },
+    {
+        "Food":"merguez de poulet",
+        "Category":"en:poultry-merguez",
+        "Calories":0.0266013384
+    },
+    {
+        "Food":"cauliflower",
+        "Category":"en:cauliflowers",
+        "Calories":0.0034416826
+    },
+    {
+        "Food":"vegan 3k-protein",
+        "Category":"en:protein-powders",
+        "Calories":0.0372131931
+    },
+    {
+        "Food":"isalean shake",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0406787763
+    },
+    {
+        "Food":"cuisse de poulet direct au four curry",
+        "Category":"en:chicken-thighs",
+        "Calories":0.0196940727
+    },
+    {
+        "Food":"th\u00e9 vert matcha du japon",
+        "Category":"en:japanese-green-teas",
+        "Calories":0.0333652008
+    },
+    {
+        "Food":"chocolate isapro plant-based protein",
+        "Category":"en:protein-powders",
+        "Calories":0.0375239006
+    },
+    {
+        "Food":"xylit",
+        "Category":"en:birkenzucker",
+        "Calories":0.0236137667
+    },
+    {
+        "Food":"pindakaas met stukjes pinda",
+        "Category":"en:spreads",
+        "Calories":0.0625
+    },
+    {
+        "Food":"100% whey isolate",
+        "Category":"en:protein-powders",
+        "Calories":0.0347992352
+    },
+    {
+        "Food":"shell-on shrimp",
+        "Category":"en:frozen-seafood",
+        "Calories":0.010707457
+    },
+    {
+        "Food":"crunchies",
+        "Category":"en:biscuits",
+        "Calories":0.0500956023
+    },
+    {
+        "Food":"confiture extra abricot bio",
+        "Category":"en:apricot-jams",
+        "Calories":0.0170889101
+    },
+    {
+        "Food":"gocciole extra dark",
+        "Category":"en:biscuits",
+        "Calories":0.0201959847
+    },
+    {
+        "Food":"cauliflower",
+        "Category":"en:cauliflowers",
+        "Calories":0.0139340344
+    },
+    {
+        "Food":"microwavable artichokes",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.004708413
+    },
+    {
+        "Food":"super shreds super foods, brussels sprouts shreds",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.0048040153
+    },
+    {
+        "Food":"flocons quatre graines",
+        "Category":"en:blend-of-rolled-cereal-flakes",
+        "Calories":0.0358030593
+    },
+    {
+        "Food":"bo\u00eete collector madeleines choconoir",
+        "Category":"en:chocolate-madeleines",
+        "Calories":0.0458173996
+    },
+    {
+        "Food":"tender broad beans",
+        "Category":"en:canned-broad-beans",
+        "Calories":0.0060946463
+    },
+    {
+        "Food":"organic hummus",
+        "Category":"en:hummus",
+        "Calories":0.0070028681
+    },
+    {
+        "Food":"earthcamp vegan protein powder",
+        "Category":"en:chia",
+        "Calories":0.036998088
+    },
+    {
+        "Food":"energydiet. soupe thai",
+        "Category":"en:soups",
+        "Calories":0.0370936902
+    },
+    {
+        "Food":"ice tea",
+        "Category":"en:iced-teas",
+        "Calories":0.0
+    },
+    {
+        "Food":"potiron et j\u2019irai",
+        "Category":"en:pumpkin-soups",
+        "Calories":0.0034894837
+    },
+    {
+        "Food":"keto rolls",
+        "Category":"en:electrolytes",
+        "Calories":0.0099904398
+    },
+    {
+        "Food":"4 ore senza fame bio",
+        "Category":"en:snacks",
+        "Calories":0.0443833652
+    },
+    {
+        "Food":"iceberg lettuce",
+        "Category":"en:iceberg-lettuce",
+        "Calories":0.0014340344
+    },
+    {
+        "Food":"pasta di cacao nero assoluto 100%",
+        "Category":"en:dark-chocolates",
+        "Calories":0.0623087954
+    },
+    {
+        "Food":"assortiment d'amandes cacato\u00e8s et croustilles",
+        "Category":"en:chocolate-covered-almonds",
+        "Calories":0.0543977055
+    },
+    {
+        "Food":"isalean shake",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0393403442
+    },
+    {
+        "Food":"velout\u00e9 de 10 l\u00e9gumes",
+        "Category":"en:cream-of-vegetable-soups",
+        "Calories":0.0018642447
+    },
+    {
+        "Food":"funsch, high quality marzipan",
+        "Category":"en:confectioneries",
+        "Calories":0.0461042065
+    },
+    {
+        "Food":"isalean shake",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0393403442
+    },
+    {
+        "Food":"crema spalmabile arachidi",
+        "Category":"en:nut-butters",
+        "Calories":0.0466061185
+    },
+    {
+        "Food":"proteine break",
+        "Category":"en:bodybuilding-supplements",
+        "Calories":0.0454110899
+    },
+    {
+        "Food":"soft chewy twisted candy bites",
+        "Category":"en:confectioneries",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"gaspacho bio liebig",
+        "Category":"en:gazpacho",
+        "Calories":0.0027963671
+    },
+    {
+        "Food":"sweet envy",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.003585086
+    },
+    {
+        "Food":"smoothie fraise-banane",
+        "Category":"en:smoothies",
+        "Calories":0.0059034417
+    },
+    {
+        "Food":"huile d'olive vierge extra aop",
+        "Category":"en:olive-oils-from-haute-provence",
+        "Calories":0.080999044
+    },
+    {
+        "Food":"noix du br\u00e9sil",
+        "Category":"en:brazil-nuts",
+        "Calories":0.0706978967
+    },
+    {
+        "Food":"gummy soda bottles",
+        "Category":"en:confectioneries",
+        "Calories":0.025
+    },
+    {
+        "Food":"pella mushroom coffee",
+        "Category":"en:sausages",
+        "Calories":0.0005975143
+    },
+    {
+        "Food":"confiture de coing",
+        "Category":"en:quince-jams",
+        "Calories":0.0239005736
+    },
+    {
+        "Food":"osella linea protein",
+        "Category":"en:primo-sale",
+        "Calories":0.0235898662
+    },
+    {
+        "Food":"petit dej chococroustill",
+        "Category":"en:cakes",
+        "Calories":0.0135038241
+    },
+    {
+        "Food":"cap\u2019n crunch",
+        "Category":"en:breakfast-cereals",
+        "Calories":0.0394837476
+    },
+    {
+        "Food":"udon",
+        "Category":"en:udon",
+        "Calories":0.0131214149
+    },
+    {
+        "Food":"organic pea protein powder",
+        "Category":"en:chia",
+        "Calories":0.0078393881
+    },
+    {
+        "Food":"crema fresca verduras",
+        "Category":"en:cream-of-vegetable-soups",
+        "Calories":0.0022944551
+    },
+    {
+        "Food":"cioccolato fondente mirtillo e ibisco 54%",
+        "Category":"en:dark-chocolates",
+        "Calories":0.0456978967
+    },
+    {
+        "Food":"pain au chocolat pur beurre",
+        "Category":"en:chocolate-croissant",
+        "Calories":0.0414913958
+    },
+    {
+        "Food":"moulin\u00e9 de l\u00e9gumes verts",
+        "Category":"en:vegetable-soups",
+        "Calories":0.0031070746
+    },
+    {
+        "Food":"c\u00e9r\u00e9ales p'tit carr\u00e9 cacao & noisettes",
+        "Category":"en:breakfast-cereals-filled-with-chocolate-hazelnuts",
+        "Calories":0.0438097514
+    },
+    {
+        "Food":"gerstenbackmalz",
+        "Category":"fr:choux",
+        "Calories":0.0294933078
+    },
+    {
+        "Food":"formula 1",
+        "Category":"en:meal-replacements",
+        "Calories":0.0348948375
+    },
+    {
+        "Food":"ryan's, spiced apple cider",
+        "Category":"en:groceries",
+        "Calories":0.0045889101
+    },
+    {
+        "Food":"burro di arachidi",
+        "Category":"en:peanut-butters",
+        "Calories":0.0597992352
+    },
+    {
+        "Food":"soupe aux poireaux et lentilles \u00e0 la fran\u00e7aise",
+        "Category":"en:soups",
+        "Calories":0.0361137667
+    },
+    {
+        "Food":"cavendish banana",
+        "Category":"en:bananas",
+        "Calories":0.0088910134
+    },
+    {
+        "Food":"grass fed ground beef",
+        "Category":"en:meats",
+        "Calories":0.0211520076
+    },
+    {
+        "Food":"pancake mix",
+        "Category":"en:cake-mixes",
+        "Calories":0.0340105163
+    },
+    {
+        "Food":"afresh",
+        "Category":"en:energy-drinks",
+        "Calories":0.0352294455
+    },
+    {
+        "Food":"kinder tejszelet",
+        "Category":"hu:tejszelet",
+        "Calories":0.042041109
+    },
+    {
+        "Food":"beauty collagen",
+        "Category":"en:collagen",
+        "Calories":0.0349904398
+    },
+    {
+        "Food":"madelaine chocolate company, chocolate",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0549952199
+    },
+    {
+        "Food":"bramwells american style peanut butter",
+        "Category":"en:peanut-butters",
+        "Calories":0.0590344168
+    },
+    {
+        "Food":"pear halves in heavy syrup",
+        "Category":"en:canned-fruits",
+        "Calories":0.0076959847
+    },
+    {
+        "Food":"organic almond butter raw",
+        "Category":"en:almond-butters",
+        "Calories":0.0658938815
+    },
+    {
+        "Food":"croissant ripieno alla crema di cacao",
+        "Category":"en:filled-croissants",
+        "Calories":0.024498088
+    },
+    {
+        "Food":"green beans",
+        "Category":"en:fresh-green-beans",
+        "Calories":0.003585086
+    },
+    {
+        "Food":"original buttery spread",
+        "Category":"en:fats",
+        "Calories":0.064292543
+    },
+    {
+        "Food":"potage instantan\u00e9 poireau",
+        "Category":"fr:potages",
+        "Calories":0.0063097514
+    },
+    {
+        "Food":"welch's, pb & j trail mix, strawberry",
+        "Category":"en:snacks",
+        "Calories":0.0471080306
+    },
+    {
+        "Food":"oatmeal raisin cookies",
+        "Category":"en:biscuits",
+        "Calories":0.0370936902
+    },
+    {
+        "Food":"8 mini beignets fourr\u00e9s au chocolat noisette",
+        "Category":"fr:beignets-au-chocolat",
+        "Calories":0.0428059273
+    },
+    {
+        "Food":"filete de sardina en aceite de girasol",
+        "Category":"en:sardines-in-sunflower-oil",
+        "Calories":0.0303059273
+    },
+    {
+        "Food":"soupe gourmet tomate",
+        "Category":"en:vegetable-soups",
+        "Calories":0.0326003824
+    },
+    {
+        "Food":"mini bagels",
+        "Category":"en:breads",
+        "Calories":0.0278919694
+    },
+    {
+        "Food":"freeze dried dragon fruit slices",
+        "Category":"en:freeze-dried-fruits",
+        "Calories":0.039292543
+    },
+    {
+        "Food":"pain au chocolat",
+        "Category":"en:chocolate-croissant",
+        "Calories":0.0367112811
+    },
+    {
+        "Food":"organic vegan pesto",
+        "Category":"en:groceries",
+        "Calories":0.0657026769
+    },
+    {
+        "Food":"shortening powder",
+        "Category":"en:cooking-helpers",
+        "Calories":0.0713910134
+    },
+    {
+        "Food":"om\u00e9ga 3",
+        "Category":"en:margarines-high-in-omega-3",
+        "Calories":0.0467973231
+    },
+    {
+        "Food":"chorizo",
+        "Category":"en:chorizo",
+        "Calories":0.0434034417
+    },
+    {
+        "Food":"sauce gourmet poivre",
+        "Category":"en:groceries",
+        "Calories":0.0283938815
+    },
+    {
+        "Food":"green cabbage",
+        "Category":"en:leaf-vegetables",
+        "Calories":0.0023900574
+    },
+    {
+        "Food":"fruit flavored snacks",
+        "Category":"en:confectioneries",
+        "Calories":0.025
+    },
+    {
+        "Food":"vegan protein mango",
+        "Category":"en:protein-powders",
+        "Calories":0.0393881453
+    },
+    {
+        "Food":"pane proteico",
+        "Category":"en:breads",
+        "Calories":0.0264101338
+    },
+    {
+        "Food":"pindakaas",
+        "Category":"en:peanut-butters",
+        "Calories":0.0597036329
+    },
+    {
+        "Food":"bacon de dinde",
+        "Category":"en:turkeys",
+        "Calories":0.0175908222
+    },
+    {
+        "Food":"shiro miso",
+        "Category":"en:miso-paste",
+        "Calories":0.01916826
+    },
+    {
+        "Food":"pan",
+        "Category":"en:pastas",
+        "Calories":0.0239961759
+    },
+    {
+        "Food":"nutrek",
+        "Category":"en:plant-based-foods-and-beverages",
+        "Calories":0.0511472275
+    },
+    {
+        "Food":"grass fed whey protein",
+        "Category":"en:protein-powders",
+        "Calories":0.0168977055
+    },
+    {
+        "Food":"protein m\u00fcsli",
+        "Category":"en:mueslis",
+        "Calories":0.0440965583
+    },
+    {
+        "Food":"bread, scone & roll mix",
+        "Category":"en:cooking-helpers",
+        "Calories":0.0364005736
+    },
+    {
+        "Food":"fruit gummies candy",
+        "Category":"en:confectioneries",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"pizza raclette bacon",
+        "Category":"en:pizzas-pies-and-quiches",
+        "Calories":0.0250956023
+    },
+    {
+        "Food":"midnight mint",
+        "Category":"en:hot-beverages",
+        "Calories":0.0
+    },
+    {
+        "Food":"bowtie noodles",
+        "Category":"en:pastas",
+        "Calories":0.0356118547
+    },
+    {
+        "Food":"tri\u00e1ngulo de tortilla con cebolla",
+        "Category":"en:spanish-omelettes",
+        "Calories":0.0181883365
+    },
+    {
+        "Food":"mehrkomponeneten protein 90 c6 banane",
+        "Category":"en:protein-powders",
+        "Calories":0.0366395793
+    },
+    {
+        "Food":"tartines craquantes seigle",
+        "Category":"en:extruded-crispbreads",
+        "Calories":0.0353967495
+    },
+    {
+        "Food":"nems poulet",
+        "Category":"en:chicken-nems",
+        "Calories":0.0175908222
+    },
+    {
+        "Food":"familjepack schnitzel frysta",
+        "Category":"en:vegan-patties",
+        "Calories":0.0222036329
+    },
+    {
+        "Food":"ketchup sans sucre ajoute",
+        "Category":"en:groceries",
+        "Calories":0.00666826
+    },
+    {
+        "Food":"soja protein",
+        "Category":"en:te",
+        "Calories":0.0378107075
+    },
+    {
+        "Food":"miel de fleurs",
+        "Category":"en:flower-honeys",
+        "Calories":0.0318116635
+    },
+    {
+        "Food":"pago smoothie cerise cassis et rose",
+        "Category":"en:smoothies",
+        "Calories":0.005999044
+    },
+    {
+        "Food":"lagg's, dieter's herbal tea",
+        "Category":"en:tea-bags",
+        "Calories":0.0
+    },
+    {
+        "Food":"lactaid, ice cream, butter pecan",
+        "Category":"en:frozen-desserts",
+        "Calories":0.0239005736
+    },
+    {
+        "Food":"le fromage fouett\u00e9 madame lo\u00efc nature au sel de gu\u00e9rande",
+        "Category":"en:cheese-spreads",
+        "Calories":0.024832696
+    },
+    {
+        "Food":"avocado oil greek dressing",
+        "Category":"en:avocado-oils",
+        "Calories":0.05
+    },
+    {
+        "Food":"organic vegan protein shake mix",
+        "Category":"en:protein-powders",
+        "Calories":0.011998088
+    },
+    {
+        "Food":"fondants citron",
+        "Category":"en:jams",
+        "Calories":0.0252390057
+    },
+    {
+        "Food":"crackers al rosmarino",
+        "Category":"en:crackers",
+        "Calories":0.0420889101
+    },
+    {
+        "Food":"pitted prunes",
+        "Category":"en:dried-prunes",
+        "Calories":0.025
+    },
+    {
+        "Food":"fette tostate al cacao",
+        "Category":"en:plant-based-foods",
+        "Calories":0.0363049713
+    },
+    {
+        "Food":"dental gum",
+        "Category":"en:confectioneries",
+        "Calories":0.0200047801
+    },
+    {
+        "Food":"flocon d'avoine - compl\u00e8te",
+        "Category":"en:rolled-oats",
+        "Calories":0.0370936902
+    },
+    {
+        "Food":"freeze dried to go sausage scramble",
+        "Category":"en:meals",
+        "Calories":0.0482791587
+    },
+    {
+        "Food":"vegavero liver active complex",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0299474187
+    },
+    {
+        "Food":"soupe bio tomate",
+        "Category":"en:soups",
+        "Calories":0.0036089866
+    },
+    {
+        "Food":"young chicken without neck & giblets",
+        "Category":"en:whole-chickens",
+        "Calories":0.0211520076
+    },
+    {
+        "Food":"vegetarian meat substitute",
+        "Category":"en:meats",
+        "Calories":0.0346080306
+    },
+    {
+        "Food":"apple cider",
+        "Category":"en:beverages",
+        "Calories":0.0045889101
+    },
+    {
+        "Food":"amatriciana",
+        "Category":"it:sugo-alla-amatriciana",
+        "Calories":0.0240917782
+    },
+    {
+        "Food":"75 protein",
+        "Category":"en:bodybuilding-supplements",
+        "Calories":0.0359942639
+    },
+    {
+        "Food":"canola harvest, buttery spread, with flaxseed oil",
+        "Category":"en:fats",
+        "Calories":0.0570984704
+    },
+    {
+        "Food":"walkers - a dash of salt & vinegar",
+        "Category":"en:salt-and-vinegar-crisps",
+        "Calories":0.0511950287
+    },
+    {
+        "Food":"red romaine",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.001792543
+    },
+    {
+        "Food":"the madelaine chocolate company, solid milk chocolate",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0555927342
+    },
+    {
+        "Food":"fruit snacks red belt",
+        "Category":"en:confectioneries",
+        "Calories":0.0275095602
+    },
+    {
+        "Food":"vegetable gyoza",
+        "Category":"en:vegetable-gyoza",
+        "Calories":0.0146032505
+    },
+    {
+        "Food":"chorizo",
+        "Category":"en:chorizo",
+        "Calories":0.0428059273
+    },
+    {
+        "Food":"madeleines citron",
+        "Category":"fr:madeleines-au-citron",
+        "Calories":0.0076959847
+    },
+    {
+        "Food":"pb fit",
+        "Category":"en:supplement",
+        "Calories":0.0375
+    },
+    {
+        "Food":"fibra canadiense mcberry",
+        "Category":"es:fibra",
+        "Calories":0.0432600382
+    },
+    {
+        "Food":"pur\u00e9e cacahuete crunchy",
+        "Category":"en:peanut-butters",
+        "Calories":0.0608030593
+    },
+    {
+        "Food":"moa",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0043977055
+    },
+    {
+        "Food":"bio whey protein kakao",
+        "Category":"en:protein-powders",
+        "Calories":0.0369024857
+    },
+    {
+        "Food":"broccoli",
+        "Category":"en:broccoli",
+        "Calories":0.0033938815
+    },
+    {
+        "Food":"fresh spinach",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.0023900574
+    },
+    {
+        "Food":"soupe potiron carottes et vermicelles",
+        "Category":"en:vegetable-soups",
+        "Calories":0.007456979
+    },
+    {
+        "Food":"low fat milk 1%",
+        "Category":"en:skimmed-milks",
+        "Calories":0.0041586998
+    },
+    {
+        "Food":"la spalmabile al pistacchio",
+        "Category":"en:sweet-spreads",
+        "Calories":0.0477055449
+    },
+    {
+        "Food":"hfb candy, jelly fish candy",
+        "Category":"en:confectioneries",
+        "Calories":0.0349904398
+    },
+    {
+        "Food":"welch's, dried cranberries, blueberry",
+        "Category":"en:snacks",
+        "Calories":0.0325047801
+    },
+    {
+        "Food":"crush, gummy soda bottles, orange",
+        "Category":"en:confectioneries",
+        "Calories":0.025
+    },
+    {
+        "Food":"mini macaron amandes",
+        "Category":"en:macarons",
+        "Calories":0.0396032505
+    },
+    {
+        "Food":"pan de leche redondo",
+        "Category":"en:milk-bread-rolls",
+        "Calories":0.0231118547
+    },
+    {
+        "Food":"peanut  better",
+        "Category":"en:peanut-butters",
+        "Calories":0.064292543
+    },
+    {
+        "Food":"batido nutricional \/ nutricional shake",
+        "Category":"en:supplement",
+        "Calories":0.0354684512
+    },
+    {
+        "Food":"tortellini ricotta epinard",
+        "Category":"en:tortellini-ricotta-spinach",
+        "Calories":0.0283938815
+    },
+    {
+        "Food":"pot au feu de l\u00e9gumes aux aromates",
+        "Category":"en:vegetable-soups",
+        "Calories":0.002581262
+    },
+    {
+        "Food":"schiacciatine proteiche",
+        "Category":"it:grissini-proteici",
+        "Calories":0.0402963671
+    },
+    {
+        "Food":"velout\u00e9 de 10 l\u00e9gumes",
+        "Category":"en:cream-of-vegetable-soups",
+        "Calories":0.0041108987
+    },
+    {
+        "Food":"multivitamins & minerals",
+        "Category":"en:vitamins",
+        "Calories":0.0225382409
+    },
+    {
+        "Food":"organic pesto alla genovese",
+        "Category":"en:groceries",
+        "Calories":0.0655114723
+    },
+    {
+        "Food":"stevia & erythritol sweetener",
+        "Category":"en:stevia-sweetener",
+        "Calories":0.0384560229
+    },
+    {
+        "Food":"chili ketchup",
+        "Category":"en:ketchup",
+        "Calories":0.0068116635
+    },
+    {
+        "Food":"grancereale classico",
+        "Category":"en:biscuits",
+        "Calories":0.0461042065
+    },
+    {
+        "Food":"cr\u00e8me d'artichaut",
+        "Category":"en:artichoke-spreads",
+        "Calories":0.026792543
+    },
+    {
+        "Food":"ricola",
+        "Category":"en:hard-candies",
+        "Calories":0.0235898662
+    },
+    {
+        "Food":"latte di capra",
+        "Category":"en:goat-milks",
+        "Calories":0.0044933078
+    },
+    {
+        "Food":"pur\u00e9e de graines de tournesol bio",
+        "Category":"en:sunflower-seed-butters",
+        "Calories":0.0601816444
+    },
+    {
+        "Food":"welch's, freeze-dried grapes",
+        "Category":"en:snacks",
+        "Calories":0.0353011472
+    },
+    {
+        "Food":"burro di arachidi iperproteico",
+        "Category":"en:spreadable-fats",
+        "Calories":0.0528919694
+    },
+    {
+        "Food":"confiture extra de p\u00eache blanche",
+        "Category":"en:peach-jams",
+        "Calories":0.0226099426
+    },
+    {
+        "Food":"pur jus de pomme",
+        "Category":"en:squeezed-apple-juices",
+        "Calories":0.0063097514
+    },
+    {
+        "Food":"lait de coco",
+        "Category":"en:coconut-milks-and-creams",
+        "Calories":0.0219885277
+    },
+    {
+        "Food":"green onions",
+        "Category":"en:scallions",
+        "Calories":0.0032026769
+    },
+    {
+        "Food":"ketchup napoli",
+        "Category":"en:ketchup",
+        "Calories":0.010707457
+    },
+    {
+        "Food":"haricots rouges bio",
+        "Category":"en:red-beans",
+        "Calories":0.0053059273
+    },
+    {
+        "Food":"cappuccino duble choco",
+        "Category":"en:instant-beverages",
+        "Calories":0.0397944551
+    },
+    {
+        "Food":"bp-er",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0359942639
+    },
+    {
+        "Food":"fruchtaufstrich himbeere",
+        "Category":"en:raspberry-jams",
+        "Calories":0.0849904398
+    },
+    {
+        "Food":"luxury toasted muesli ancient grains & super fruits",
+        "Category":"en:breakfast-cereals",
+        "Calories":0.0441921606
+    },
+    {
+        "Food":"natural ice cream",
+        "Category":"en:frozen-desserts",
+        "Calories":0.0224904398
+    },
+    {
+        "Food":"chipolatas",
+        "Category":"en:chipolatas",
+        "Calories":0.0222753346
+    },
+    {
+        "Food":"grissini proteici con olio di olivia",
+        "Category":"en:breadsticks",
+        "Calories":0.0402963671
+    },
+    {
+        "Food":"fruit snacks",
+        "Category":"en:confectioneries",
+        "Calories":0.0275095602
+    },
+    {
+        "Food":"low fat milk alternative",
+        "Category":"en:creamer",
+        "Calories":0.0412045889
+    },
+    {
+        "Food":"formula 1 nutritional shake mix fragola delight",
+        "Category":"en:meal-replacements",
+        "Calories":0.0089627151
+    },
+    {
+        "Food":"la pedriza, caperberries in vinegar",
+        "Category":"en:salted-snacks",
+        "Calories":0.001792543
+    },
+    {
+        "Food":"barretta perfectbar",
+        "Category":"en:protein-energy-bars",
+        "Calories":0.0414913958
+    },
+    {
+        "Food":"sauce tomate aux courgettes bio kazidomi",
+        "Category":"en:groceries",
+        "Calories":0.0055449331
+    },
+    {
+        "Food":"teddy pasta",
+        "Category":"en:pastas",
+        "Calories":0.0336042065
+    },
+    {
+        "Food":"vegetarian meat substitute",
+        "Category":"en:meats",
+        "Calories":0.0346080306
+    },
+    {
+        "Food":"the madelaine chocolate company, solid milk chocolate chicks",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0553059273
+    },
+    {
+        "Food":"chewing-gum",
+        "Category":"en:chewing-gum",
+        "Calories":0.0148900574
+    },
+    {
+        "Food":"d\u00e9lice de potiron ch\u00e2taigne",
+        "Category":"en:pumpkin-soups",
+        "Calories":0.003417782
+    },
+    {
+        "Food":"pate a tartiner",
+        "Category":"en:hazelnut-spreads",
+        "Calories":0.0494024857
+    },
+    {
+        "Food":"p\u00e2t\u00e9 de sanglier sup\u00e9rieur truff\u00e9 \u00e0 4 %",
+        "Category":"en:almond-butters",
+        "Calories":0.0656309751
+    },
+    {
+        "Food":"mt. olive kosher dills",
+        "Category":"en:pickled-cucumbers",
+        "Calories":0.0
+    },
+    {
+        "Food":"boisson chocolat\u00e9e v\u00e9g\u00e9tale \u00e0 l'avoine",
+        "Category":"en:plant-based-foods",
+        "Calories":0.0096080306
+    },
+    {
+        "Food":"nectar pour ngalax",
+        "Category":"en:peanut-butters",
+        "Calories":0.016706501
+    },
+    {
+        "Food":"museli",
+        "Category":"en:mueslis",
+        "Calories":0.0392686424
+    },
+    {
+        "Food":"fili\u00e8re lait francais",
+        "Category":"en:homogenized-milks",
+        "Calories":0.004708413
+    },
+    {
+        "Food":"emojeez, gummies candy, fruit",
+        "Category":"en:confectioneries",
+        "Calories":0.0275095602
+    },
+    {
+        "Food":"cream soup air corners",
+        "Category":"en:\u81a8\u5316",
+        "Calories":0.0473231358
+    },
+    {
+        "Food":"isalean whole blend whey based shake",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0410611855
+    },
+    {
+        "Food":"isalean whole blend peanut butter crisp",
+        "Category":"en:plant-based-foods",
+        "Calories":0.0377390057
+    },
+    {
+        "Food":"\u00e9pices \u00e0 pain d'\u00e9pices",
+        "Category":"en:groceries",
+        "Calories":0.03458413
+    },
+    {
+        "Food":"sour & fruity candy",
+        "Category":"en:confectioneries",
+        "Calories":0.0178059273
+    },
+    {
+        "Food":"raclette",
+        "Category":"en:cow-raclette",
+        "Calories":0.0346319312
+    },
+    {
+        "Food":"coquillettes",
+        "Category":"fr:coquillettes",
+        "Calories":0.0347992352
+    },
+    {
+        "Food":"whey native isolate",
+        "Category":"en:protein-powders",
+        "Calories":0.0371892925
+    },
+    {
+        "Food":"bio gerstengras pulver",
+        "Category":"en:food-colorings",
+        "Calories":0.0250956023
+    },
+    {
+        "Food":"\u0e19\u0e49\u0e33\u0e22\u0e32\u0e1e\u0e48\u0e19\u0e04\u0e2d",
+        "Category":"en:broccoli",
+        "Calories":0.0386950287
+    },
+    {
+        "Food":"cosmic crisp apple",
+        "Category":"en:fresh-apples",
+        "Calories":0.005210325
+    },
+    {
+        "Food":"turr\u00f3n chocolat",
+        "Category":"en:chocolate-turron",
+        "Calories":0.0560946463
+    },
+    {
+        "Food":"dark chocolate turbinado sea salt almonds",
+        "Category":"en:nuts",
+        "Calories":0.0150095602
+    },
+    {
+        "Food":"fudge brownie",
+        "Category":"en:brownies",
+        "Calories":0.0409416826
+    },
+    {
+        "Food":"augason farms, vital wheat gluten",
+        "Category":"en:cereals-and-their-products",
+        "Calories":0.033293499
+    },
+    {
+        "Food":"creamed honey with cinnamon",
+        "Category":"en:honeys",
+        "Calories":0.0286089866
+    },
+    {
+        "Food":"s\u00fc\u00dflupinen mehl",
+        "Category":"en:open-beauty-facts",
+        "Calories":0.0295889101
+    },
+    {
+        "Food":"frollini al cacao",
+        "Category":"en:biscuits",
+        "Calories":0.0402963671
+    },
+    {
+        "Food":"30 panach' fruits",
+        "Category":"fr:gouters-individuels",
+        "Calories":0.0412045889
+    },
+    {
+        "Food":"cocadas",
+        "Category":"en:confectioneries",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"oreillettes",
+        "Category":"en:sweet-fritters",
+        "Calories":0.0424952199
+    },
+    {
+        "Food":"crema calabac\u00edn",
+        "Category":"en:plant-based-beverages",
+        "Calories":0.0055210325
+    },
+    {
+        "Food":"hydro 90 bv 104 whey protein",
+        "Category":"en:whey-protein",
+        "Calories":0.0388862333
+    },
+    {
+        "Food":"skippy wafer bar",
+        "Category":"en:bars",
+        "Calories":0.0611854685
+    },
+    {
+        "Food":"the madelaine chocolate company, solid dark chocolate",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0526051625
+    },
+    {
+        "Food":"spirulina 125gr eco salud viva",
+        "Category":"en:spirulina",
+        "Calories":0.0378107075
+    },
+    {
+        "Food":"welch's, golden apple chips",
+        "Category":"en:snacks",
+        "Calories":0.039292543
+    },
+    {
+        "Food":"almond & coconut creamer",
+        "Category":"en:creamer",
+        "Calories":0.00666826
+    },
+    {
+        "Food":"compote de poire",
+        "Category":"en:pear-compotes",
+        "Calories":0.0157026769
+    },
+    {
+        "Food":"quick cook sprout halves, brussels sprouts",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.0048040153
+    },
+    {
+        "Food":"tuna in olive oil",
+        "Category":"en:fish-and-meat-and-eggs",
+        "Calories":0.0204110899
+    },
+    {
+        "Food":"fresh ground peanut butter",
+        "Category":"en:peanut-butters",
+        "Calories":0.0593690249
+    },
+    {
+        "Food":"100% pure canola oil",
+        "Category":"en:vegetable-oils",
+        "Calories":0.085707457
+    },
+    {
+        "Food":"tarte aux bleuets sauvages",
+        "Category":"en:pies",
+        "Calories":0.0277724665
+    },
+    {
+        "Food":"cream of mushroom condensed soup",
+        "Category":"en:canned-soups",
+        "Calories":0.0056883365
+    },
+    {
+        "Food":"tofu fum\u00e9 bio",
+        "Category":"en:smoked-tofu",
+        "Calories":0.015248566
+    },
+    {
+        "Food":"orange drink mix",
+        "Category":"en:drink-mix",
+        "Calories":0.8
+    },
+    {
+        "Food":"whey perfect",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0375
+    },
+    {
+        "Food":"magdalenas mini clasicas",
+        "Category":"en:madeleines",
+        "Calories":0.0393881453
+    },
+    {
+        "Food":"cigarettes fourr\u00e9es chocolat noisettes",
+        "Category":"fr:biscuit-patissier-fourres-chocolat-noisette",
+        "Calories":0.0488049713
+    },
+    {
+        "Food":"farmer cheese",
+        "Category":"en:cheeses",
+        "Calories":0.0116634799
+    },
+    {
+        "Food":"welch's, freeze-dried fruit slices, banana & strawberry",
+        "Category":"en:snacks",
+        "Calories":0.0349904398
+    },
+    {
+        "Food":"ecuador 71%",
+        "Category":"en:dark-chocolates",
+        "Calories":0.0569072658
+    },
+    {
+        "Food":"fruit gummies",
+        "Category":"en:confectioneries",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"saumon fum\u00e9 sauvage",
+        "Category":"en:smoked-salmons",
+        "Calories":0.0123087954
+    },
+    {
+        "Food":"confit d'oignons ou de figues",
+        "Category":"en:groceries",
+        "Calories":0.0173040153
+    },
+    {
+        "Food":"alimento equilibrado sabor a chocolate",
+        "Category":"en:groceries",
+        "Calories":0.0397944551
+    },
+    {
+        "Food":"rillettes de canard au foie gras",
+        "Category":"en:duck-rillettes",
+        "Calories":0.0025095602
+    },
+    {
+        "Food":"formula 1 healthy meal",
+        "Category":"en:milkshakes",
+        "Calories":0.038001912
+    },
+    {
+        "Food":"v\u00e9ritable p\u00e2te \u00e0 tartiner noisettes chocolat noir",
+        "Category":"en:cocoa-and-hazelnuts-spreads",
+        "Calories":0.0617112811
+    },
+    {
+        "Food":"pane bianco fresco senza glutine per celiaci",
+        "Category":"en:white-breads",
+        "Calories":0.0231118547
+    },
+    {
+        "Food":"brussels sprouts",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.0048040153
+    },
+    {
+        "Food":"lagg's, kidneytea, herbal tea",
+        "Category":"en:tea-bags",
+        "Calories":0.0
+    },
+    {
+        "Food":"guimauves \u00e0 la vanille",
+        "Category":"en:marshmallows",
+        "Calories":0.0325047801
+    },
+    {
+        "Food":"pumpkin seeds",
+        "Category":"en:pumpkin-seeds",
+        "Calories":0.0574330784
+    },
+    {
+        "Food":"microwavable brussels sprouts",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.0047562141
+    },
+    {
+        "Food":"pur\u00e9e de noix de cajou grill\u00e9es bio",
+        "Category":"fr:pate-de-noix",
+        "Calories":0.0608269598
+    },
+    {
+        "Food":"praline mit foto-herz-massiv-26 st\u00fcck",
+        "Category":"de:pralinen-mit-foto",
+        "Calories":0.056333652
+    },
+    {
+        "Food":"strolghino di prosciutto",
+        "Category":"en:prepared-meats",
+        "Calories":0.0271988528
+    },
+    {
+        "Food":"donut milka",
+        "Category":"en:doughnuts",
+        "Calories":0.0465105163
+    },
+    {
+        "Food":"velout\u00e9 de cresson.",
+        "Category":"fr:soupe-de-cresson",
+        "Calories":0.0028919694
+    },
+    {
+        "Food":"raspberry ripple ice-cream",
+        "Category":"en:ice-creams",
+        "Calories":0.020793499
+    },
+    {
+        "Food":"red onion",
+        "Category":"en:fresh-red-onions",
+        "Calories":0.004206501
+    },
+    {
+        "Food":"brins de framboise",
+        "Category":"en:flaky-biscuits",
+        "Calories":0.0378107075
+    },
+    {
+        "Food":"isalean shake",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0393403442
+    },
+    {
+        "Food":"avena",
+        "Category":"en:cereals-and-their-products",
+        "Calories":0.0471080306
+    },
+    {
+        "Food":"vintage minis",
+        "Category":"en:honeys",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"pate a tartiner",
+        "Category":"fr:pates-a-tartiner",
+        "Calories":0.0478011472
+    },
+    {
+        "Food":"biscuit mix",
+        "Category":"en:cake-mixes",
+        "Calories":0.0429015296
+    },
+    {
+        "Food":"psiproto",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0027724665
+    },
+    {
+        "Food":"saucisson sec au piment d'espelette",
+        "Category":"en:dry-sausages",
+        "Calories":0.0400095602
+    },
+    {
+        "Food":"english tea scones - orange",
+        "Category":"en:biscuits",
+        "Calories":0.0421128107
+    },
+    {
+        "Food":"leite em p\u00f3 integral",
+        "Category":"pt:leite-em-po",
+        "Calories":0.0068116635
+    },
+    {
+        "Food":"guiltless gourmet, organic unsweetened coconut water",
+        "Category":"en:plant-based-beverages",
+        "Calories":0.0016969407
+    },
+    {
+        "Food":"sauce de poisson",
+        "Category":"en:groceries",
+        "Calories":0.0056883365
+    },
+    {
+        "Food":"angry birds, fruit gummies",
+        "Category":"en:confectioneries",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"tuc int\u00e9gral",
+        "Category":"en:appetizers",
+        "Calories":0.0408938815
+    },
+    {
+        "Food":"earth champ nutritional vegan protein",
+        "Category":"en:protein-powders",
+        "Calories":0.0341778203
+    },
+    {
+        "Food":"margarine sel de mer",
+        "Category":"en:salted-spreads",
+        "Calories":0.0504063098
+    },
+    {
+        "Food":"infusion fruits rouges 200g",
+        "Category":"en:red-fruit-teas",
+        "Calories":0.0001912046
+    },
+    {
+        "Food":"ricotta di bufala campana dop",
+        "Category":"it:ricotta-di-bufala-campana",
+        "Calories":0.0157982792
+    },
+    {
+        "Food":"creme fraiche",
+        "Category":"en:sour-creams",
+        "Calories":0.0356118547
+    },
+    {
+        "Food":"mochi pistache",
+        "Category":"en:mochi",
+        "Calories":0.0252868069
+    },
+    {
+        "Food":"amandes grill\u00e9es sans sel",
+        "Category":"en:grilled-almonds",
+        "Calories":0.0645076482
+    },
+    {
+        "Food":"crostata",
+        "Category":"en:crostata",
+        "Calories":0.051792543
+    },
+    {
+        "Food":"\u03bc\u03c0\u03b5\u03c3\u03b1\u03bc\u03ad\u03bb \u03b3\u03b9\u03ce\u03c4\u03b7\u03c2",
+        "Category":"el:\u03bc\u03c0\u03b5\u03c3\u03b1\u03bc\u03ad\u03bb-\u03c7\u03c9\u03c1\u03af\u03c2-\u03b2\u03c1\u03ac\u03c3\u03b9\u03bc\u03bf",
+        "Calories":0.0379063098
+    },
+    {
+        "Food":"premium chocolate sauce",
+        "Category":"en:chocolate-sauce",
+        "Calories":0.0274856597
+    },
+    {
+        "Food":"ohne palm\u00f6l vegan",
+        "Category":"en:chocolate-spreads",
+        "Calories":0.0563097514
+    },
+    {
+        "Food":"protein superfood",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0431883365
+    },
+    {
+        "Food":"ice cream drumstick",
+        "Category":"en:cheeses",
+        "Calories":0.0315726577
+    },
+    {
+        "Food":"freeze-dried sliced strawberries",
+        "Category":"en:snacks",
+        "Calories":0.0349904398
+    },
+    {
+        "Food":"ritter sport, knusperflakes mit knusprigen cornflakes",
+        "Category":"en:snacks",
+        "Calories":0.0527963671
+    },
+    {
+        "Food":"hot dog buns",
+        "Category":"en:protien-powder",
+        "Calories":0.011998088
+    },
+    {
+        "Food":"confiture de lait de brebis bio",
+        "Category":"en:milk-jams",
+        "Calories":0.0331978967
+    },
+    {
+        "Food":"emojeez, fruit gummies, assorted",
+        "Category":"en:confectioneries",
+        "Calories":0.0275095602
+    },
+    {
+        "Food":"tapioka \/ tapioca \u201epandan\u201c",
+        "Category":"en:tapioca",
+        "Calories":0.0365678776
+    },
+    {
+        "Food":"frollini proteici",
+        "Category":"en:biscuits",
+        "Calories":0.0418021033
+    },
+    {
+        "Food":"cooking spinach",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.0023900574
+    },
+    {
+        "Food":"100% apple cider juice",
+        "Category":"en:beverages",
+        "Calories":0.0045889101
+    },
+    {
+        "Food":"mousse de volaille",
+        "Category":"en:savory-mousses",
+        "Calories":0.0248087954
+    },
+    {
+        "Food":"mayonnaise fine de caract\u00e8re",
+        "Category":"en:mayonnaises",
+        "Calories":0.0416108987
+    },
+    {
+        "Food":"chocolate morning moo's",
+        "Category":"en:creamer",
+        "Calories":0.0400095602
+    },
+    {
+        "Food":"mini chaussons \u00e0 la compote de pomme",
+        "Category":"en:apple-turnovers",
+        "Calories":0.0342973231
+    },
+    {
+        "Food":"musztarda sarepska",
+        "Category":"pl:musztarda-sarepska",
+        "Calories":0.0092734226
+    },
+    {
+        "Food":"sonnenblumenhack",
+        "Category":"en:vegetarian-grounds",
+        "Calories":0.0324808795
+    },
+    {
+        "Food":"pringles",
+        "Category":"en:crisps",
+        "Calories":0.051792543
+    },
+    {
+        "Food":"nocciola",
+        "Category":"it:bevanda-di-nocciola",
+        "Calories":0.0028919694
+    },
+    {
+        "Food":"chocolate indulgence isalean whole blend whey-based bar",
+        "Category":"en:snacks",
+        "Calories":0.0377629063
+    },
+    {
+        "Food":"popcorn delicio saveur chocolat",
+        "Category":"en:popcorn",
+        "Calories":0.0504063098
+    },
+    {
+        "Food":"hfb candy, candy crush color bombs",
+        "Category":"en:confectioneries",
+        "Calories":0.0450047801
+    },
+    {
+        "Food":"pizzoccheri",
+        "Category":"it:pizzoccheri",
+        "Calories":0.0115917782
+    },
+    {
+        "Food":"4 beignets parfum chocolat-noisette *4",
+        "Category":"en:sweet-fritters",
+        "Calories":0.0393881453
+    },
+    {
+        "Food":"wafers",
+        "Category":"en:biscuits",
+        "Calories":0.0516969407
+    },
+    {
+        "Food":"pain complet",
+        "Category":"en:wholemeal-breads",
+        "Calories":0.0256931166
+    },
+    {
+        "Food":"collagen",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0358986616
+    },
+    {
+        "Food":"pur\u00e9e de pistaches bio",
+        "Category":"fr:pate-de-noix",
+        "Calories":0.0649856597
+    },
+    {
+        "Food":"nestle, dark truffles grand chocolate",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0474904398
+    },
+    {
+        "Food":"mt. olive, sweet 'n' hot salad peppers",
+        "Category":"en:salted-snacks",
+        "Calories":0.014292543
+    },
+    {
+        "Food":"formula1 saveur cookies et cr\u00e8me",
+        "Category":"en:bodybuilding-supplements",
+        "Calories":0.0354684512
+    },
+    {
+        "Food":"pesto basilic",
+        "Category":"en:green-pestos",
+        "Calories":0.0216061185
+    },
+    {
+        "Food":"creamy potato soup mix",
+        "Category":"en:soups",
+        "Calories":0.044000956
+    },
+    {
+        "Food":"weizenmehl",
+        "Category":"en:wheat-flours",
+        "Calories":0.0337954111
+    },
+    {
+        "Food":"barrett proteica cioccolato agrumi scatola da 14 bar",
+        "Category":"en:protein-bars",
+        "Calories":0.0397944551
+    },
+    {
+        "Food":"organic tomato sauce bolognese",
+        "Category":"en:groceries",
+        "Calories":0.0106118547
+    },
+    {
+        "Food":"herbal tea",
+        "Category":"en:herbal-teas",
+        "Calories":0.0
+    },
+    {
+        "Food":"jus de raisin blanc",
+        "Category":"en:grape-juices",
+        "Calories":0.0046606119
+    },
+    {
+        "Food":"bonbon au pain d\u2019epices",
+        "Category":"en:candies",
+        "Calories":0.0528919694
+    },
+    {
+        "Food":"jus d'abricot biologique",
+        "Category":"en:apricot-nectars",
+        "Calories":0.004875717
+    },
+    {
+        "Food":"rouleau de surimi",
+        "Category":"en:surimi",
+        "Calories":0.0102055449
+    },
+    {
+        "Food":"avena farina istantanea",
+        "Category":"it:farina-d-avena",
+        "Calories":0.0353967495
+    },
+    {
+        "Food":"uncured turkey bacon",
+        "Category":"en:turkey-and-its-products",
+        "Calories":0.0200047801
+    },
+    {
+        "Food":"beurre om\u00e9ga 3",
+        "Category":"en:margarines",
+        "Calories":0.0467973231
+    },
+    {
+        "Food":"piadina",
+        "Category":"en:piadina",
+        "Calories":0.0308078394
+    },
+    {
+        "Food":"beignets framboises",
+        "Category":"en:sweet-fritters",
+        "Calories":0.0304015296
+    },
+    {
+        "Food":"pizza dinde b\u0153uf salamis",
+        "Category":"en:pizzas",
+        "Calories":0.0231118547
+    },
+    {
+        "Food":"hatchers peanut butter filled milk chocolate",
+        "Category":"en:confectioneries",
+        "Calories":0.0553059273
+    },
+    {
+        "Food":"fusilli multicereali",
+        "Category":"en:gluten-free-pasta",
+        "Calories":0.0351099426
+    },
+    {
+        "Food":"ingwer wurzel",
+        "Category":"en:groceries",
+        "Calories":0.0304015296
+    },
+    {
+        "Food":"milkyway, magic stars chocolates",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0556883365
+    },
+    {
+        "Food":"rainbow bites",
+        "Category":"en:confectioneries",
+        "Calories":0.0349904398
+    },
+    {
+        "Food":"d\u00e9lice de 10 l\u00e9gumes",
+        "Category":"en:vegetable-soups",
+        "Calories":0.0045889101
+    },
+    {
+        "Food":"empanada at\u00fan",
+        "Category":"es:empanada-de-atun",
+        "Calories":0.0270076482
+    },
+    {
+        "Food":"children's dha",
+        "Category":"en:i-want-to-know",
+        "Calories":0.0214627151
+    },
+    {
+        "Food":"pav\u00e9 de saumon fum\u00e9 \u00e0 la ficelle",
+        "Category":"fr:paves-de-saumon-fume",
+        "Calories":0.0253107075
+    },
+    {
+        "Food":"velout\u00e9 de tomates et pointe d'origan",
+        "Category":"en:tomato-soups",
+        "Calories":0.0027963671
+    },
+    {
+        "Food":"fix",
+        "Category":"en:greek-beers",
+        "Calories":0.0038240918
+    },
+    {
+        "Food":"kingsmill 50\/50 medium bread 800g",
+        "Category":"en:breads",
+        "Calories":0.0055449331
+    },
+    {
+        "Food":"proteine wpc 100",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0386950287
+    },
+    {
+        "Food":"chocolat noir 85% vegan",
+        "Category":"en:dark-chocolates",
+        "Calories":0.0635994264
+    },
+    {
+        "Food":"carrot cake",
+        "Category":"en:carrot-cakes",
+        "Calories":0.0364961759
+    },
+    {
+        "Food":"green apple chips",
+        "Category":"en:snacks",
+        "Calories":0.039292543
+    },
+    {
+        "Food":"biscuits avoine choco",
+        "Category":"en:tuna-in-brine",
+        "Calories":0.0419933078
+    },
+    {
+        "Food":"the madelaine chocolate company, solid milk chocolate cigars",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0534894837
+    },
+    {
+        "Food":"celebrations, candy",
+        "Category":"en:confectioneries",
+        "Calories":0.0496892925
+    },
+    {
+        "Food":"angry birds, fruit snacks, cherry-lemon-raspberry-apple-grape-strawberry",
+        "Category":"en:confectioneries",
+        "Calories":0.0309034417
+    },
+    {
+        "Food":"the madelaine chocolate company, solid milk chocolate",
+        "Category":"en:confectioneries",
+        "Calories":0.0555927342
+    },
+    {
+        "Food":"gummies",
+        "Category":"en:confectioneries",
+        "Calories":0.0275095602
+    },
+    {
+        "Food":"formula 1 nutrional shake mix",
+        "Category":"en:meal-replacements",
+        "Calories":0.0397944551
+    },
+    {
+        "Food":"donuts fourrage vanille",
+        "Category":"en:doughnuts",
+        "Calories":0.0341061185
+    },
+    {
+        "Food":"tofu nature bio",
+        "Category":"en:plain-tofu",
+        "Calories":0.0161567878
+    },
+    {
+        "Food":"baci di dama",
+        "Category":"en:fruit-salads",
+        "Calories":0.0543977055
+    },
+    {
+        "Food":"tarte normande",
+        "Category":"en:norman-style-pies",
+        "Calories":0.0270076482
+    },
+    {
+        "Food":"brioche senza glutine",
+        "Category":"en:gluten-free-biscuits",
+        "Calories":0.0233030593
+    },
+    {
+        "Food":"spinach pizza",
+        "Category":"en:pizzas",
+        "Calories":0.0900095602
+    },
+    {
+        "Food":"vintage minis",
+        "Category":"en:honeys",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"provola typical crotonese",
+        "Category":"en:cheeses",
+        "Calories":0.0308795411
+    },
+    {
+        "Food":"barbecue protein chips",
+        "Category":"en:crisps",
+        "Calories":0.0447418738
+    },
+    {
+        "Food":"allumettes de bacon",
+        "Category":"en:butfalo-mac-and-cheese",
+        "Calories":0.0124043977
+    },
+    {
+        "Food":"vintage minis",
+        "Category":"en:honeys",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"100% pure orange juice from concentrate",
+        "Category":"en:orange-juices",
+        "Calories":0.0042304015
+    },
+    {
+        "Food":"pindakaas",
+        "Category":"en:peanut-butters",
+        "Calories":0.0618785851
+    },
+    {
+        "Food":"baby brussels sprouts",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.0048040153
+    },
+    {
+        "Food":"gummies",
+        "Category":"en:confectioneries",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"pav\u00e9 de saumon fum\u00e9 \u00e0 la ficelle",
+        "Category":"fr:saumons-fumes-a-la-ficelle",
+        "Calories":0.0253107075
+    },
+    {
+        "Food":"welch's, dried mediterranean apricots",
+        "Category":"en:dried-apricots",
+        "Calories":0.0224904398
+    },
+    {
+        "Food":"dr pepper, gummy candies",
+        "Category":"en:confectioneries",
+        "Calories":0.025
+    },
+    {
+        "Food":"biscuits cuillers",
+        "Category":"en:sponge-fingers-biscuit",
+        "Calories":0.0354206501
+    },
+    {
+        "Food":"absolute black",
+        "Category":"en:candy-chocolate-bars",
+        "Calories":0.0595363289
+    },
+    {
+        "Food":"welch's, triple fruit treat, mango, cranberries, blueberries",
+        "Category":"en:snacks",
+        "Calories":0.0347992352
+    },
+    {
+        "Food":"milk chocolate malt balls",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0525095602
+    },
+    {
+        "Food":"dental gum",
+        "Category":"en:sugar-free-chewing-gum",
+        "Calories":0.0200047801
+    },
+    {
+        "Food":"sauce tomate puttanesca bio kazidomi",
+        "Category":"fr:sauce-italienne",
+        "Calories":0.0074091778
+    },
+    {
+        "Food":"nutri+ vegan 3k proteinpulver",
+        "Category":"en:pastas",
+        "Calories":0.0350143403
+    },
+    {
+        "Food":"pumpkin seeds",
+        "Category":"en:shelled-pumpkin-seeds",
+        "Calories":0.0633365201
+    },
+    {
+        "Food":"malt loaf",
+        "Category":"en:malt-loaf",
+        "Calories":0.0317160612
+    },
+    {
+        "Food":"soup mix",
+        "Category":"en:soups",
+        "Calories":0.0413001912
+    },
+    {
+        "Food":"tarte noix de coco",
+        "Category":"en:coconut-pies",
+        "Calories":0.0380975143
+    },
+    {
+        "Food":"greek yogurt",
+        "Category":"en:greek-style-yogurts",
+        "Calories":0.0086759082
+    },
+    {
+        "Food":"xanthan gum",
+        "Category":"en:xanthan-gum",
+        "Calories":0.0183078394
+    },
+    {
+        "Food":"protein break",
+        "Category":"en:bodybuilding-supplements",
+        "Calories":0.045291587
+    },
+    {
+        "Food":"roseguard  vitamin a c e  rosmery",
+        "Category":"en:supplement",
+        "Calories":0.0
+    },
+    {
+        "Food":"100% whole wheat hot dog buns",
+        "Category":"en:protein-powders",
+        "Calories":0.0150095602
+    },
+    {
+        "Food":"mixed peppers",
+        "Category":"en:mixed-peppers",
+        "Calories":0.0018881453
+    },
+    {
+        "Food":"ensalada cesar",
+        "Category":"en:salads",
+        "Calories":0.010707457
+    },
+    {
+        "Food":"cheese and onion",
+        "Category":"en:cheese-and-onion-crisps",
+        "Calories":0.0512667304
+    },
+    {
+        "Food":"isapro plant based protein",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0400095602
+    },
+    {
+        "Food":"sugar cookie mix",
+        "Category":"en:baking-mixes",
+        "Calories":0.0366634799
+    },
+    {
+        "Food":"niteworks",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0
+    },
+    {
+        "Food":"cabillaud pan\u00e9 fa\u00e7on fish\u2019n\u2019chips",
+        "Category":"en:breaded-fish",
+        "Calories":0.0184034417
+    },
+    {
+        "Food":"organic tomato pulp",
+        "Category":"en:tomato-pulps",
+        "Calories":0.0032026769
+    },
+    {
+        "Food":"apple & cinnamon tea",
+        "Category":"en:teas",
+        "Calories":0.0
+    },
+    {
+        "Food":"kingsmill 50\/50 medium bread 800g",
+        "Category":"en:breads",
+        "Calories":0.0055449331
+    },
+    {
+        "Food":"riso s. andrea",
+        "Category":"en:rices",
+        "Calories":0.0360898662
+    },
+    {
+        "Food":"corned beef",
+        "Category":"en:corned-beef",
+        "Calories":0.0234942639
+    },
+    {
+        "Food":"coca cola",
+        "Category":"en:colas",
+        "Calories":0.004206501
+    },
+    {
+        "Food":"petit d\u00e9jeuner sarrasin",
+        "Category":"en:cereals-and-their-products",
+        "Calories":0.0494024857
+    },
+    {
+        "Food":"tuna salad wheat sandwich",
+        "Category":"en:tuna-sandwiches",
+        "Calories":0.0364005736
+    },
+    {
+        "Food":"powder -nonfat dry milk",
+        "Category":"en:creamer",
+        "Calories":0.033293499
+    },
+    {
+        "Food":"cookies au chocolat",
+        "Category":"en:chocolate-chip-cookies",
+        "Calories":0.0488049713
+    },
+    {
+        "Food":"yaourt vanille sucr\u00e9",
+        "Category":"en:dairies",
+        "Calories":0.0026051625
+    },
+    {
+        "Food":"soupe supr\u00eame de tomates",
+        "Category":"en:soups",
+        "Calories":0.0044933078
+    },
+    {
+        "Food":"10 chicken stock cubes",
+        "Category":"en:bouillon-cubes",
+        "Calories":0.0006214149
+    },
+    {
+        "Food":"born fruta fresca deshidratada",
+        "Category":"en:dried-fruits",
+        "Calories":0.036209369
+    },
+    {
+        "Food":"veganes protein schoko",
+        "Category":"en:protein-powders",
+        "Calories":0.0353967495
+    },
+    {
+        "Food":"garden salsa",
+        "Category":"en:chips",
+        "Calories":0.0090105163
+    },
+    {
+        "Food":"pizza salami",
+        "Category":"en:pizzas",
+        "Calories":0.0298040153
+    },
+    {
+        "Food":"kombucha",
+        "Category":"en:kombuchas",
+        "Calories":0.000501912
+    },
+    {
+        "Food":"creamed honey with lemon",
+        "Category":"en:honeys",
+        "Calories":0.0286089866
+    },
+    {
+        "Food":"cacao in polvere",
+        "Category":"en:cocoa-powders",
+        "Calories":0.0381931166
+    },
+    {
+        "Food":"olio extravergine di oliva",
+        "Category":"it:olio-extravergine-di-oliva",
+        "Calories":0.0824091778
+    },
+    {
+        "Food":"m\u00e9lange vegan pour boisson proteinee",
+        "Category":"fr:melange-vegan-pour-boisson-proteinee",
+        "Calories":0.038957935
+    },
+    {
+        "Food":"wafer  zero cacao e nocciola",
+        "Category":"en:protein-bars",
+        "Calories":0.0504063098
+    },
+    {
+        "Food":"bio erbsen protein 82%",
+        "Category":"en:protein-powders",
+        "Calories":0.0402246654
+    },
+    {
+        "Food":"exploding candy",
+        "Category":"en:confectioneries",
+        "Calories":0.033293499
+    },
+    {
+        "Food":"welch's, freeze-dried apple slices",
+        "Category":"en:snacks",
+        "Calories":0.0349904398
+    },
+    {
+        "Food":"welch's, dried cranberries",
+        "Category":"en:dried-cranberries",
+        "Calories":0.0325047801
+    },
+    {
+        "Food":"ravioli frais \u00e0 la roquette et aux \u00e9pinards",
+        "Category":"en:ravioli-with-ricotta-and-spinach",
+        "Calories":0.0249043977
+    },
+    {
+        "Food":"mixed fruit gummies",
+        "Category":"en:confectioneries",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"mcvitie's, mini gingerbread men, milk chocolate",
+        "Category":"en:biscuits",
+        "Calories":0.0479923518
+    },
+    {
+        "Food":"welch's, wholesome & delicious dried mangos",
+        "Category":"en:snacks",
+        "Calories":0.0349904398
+    },
+    {
+        "Food":"boisson nutritionnelle",
+        "Category":"en:supplement",
+        "Calories":0.0397944551
+    },
+    {
+        "Food":"gehacktes",
+        "Category":"en:plant-based-foods",
+        "Calories":0.0104923518
+    },
+    {
+        "Food":"chips de banane",
+        "Category":"en:dried-bananas",
+        "Calories":0.0514101338
+    },
+    {
+        "Food":"chicken boullion",
+        "Category":"en:soups",
+        "Calories":0.025
+    },
+    {
+        "Food":"burro di arachidi",
+        "Category":"en:peanut-butters",
+        "Calories":0.0597992352
+    },
+    {
+        "Food":"mandeln naturbelassen",
+        "Category":"en:whole-almonds",
+        "Calories":0.0588193117
+    },
+    {
+        "Food":"pastilles neutres bio",
+        "Category":"fr:pastilles",
+        "Calories":0.0798996176
+    },
+    {
+        "Food":"potiron et vermicelles",
+        "Category":"en:cream-of-pumpkin-soups",
+        "Calories":0.0026051625
+    },
+    {
+        "Food":"donuts coco noisette",
+        "Category":"en:doughnuts",
+        "Calories":0.043499044
+    },
+    {
+        "Food":"welch's, pb&j trail mix, grape",
+        "Category":"en:snacks",
+        "Calories":0.0471080306
+    },
+    {
+        "Food":"italian tomato puree",
+        "Category":"en:tomato-purees",
+        "Calories":0.0089627151
+    },
+    {
+        "Food":"candy crush, jelly beans, mixed berry - cherry - peach - pear buttered popcorn - cotton candy",
+        "Category":"en:confectioneries",
+        "Calories":0.0349904398
+    },
+    {
+        "Food":"poudre de lait de coco",
+        "Category":"en:coconut-milks-and-creams",
+        "Calories":0.069000956
+    },
+    {
+        "Food":"dehydrated potato flakes",
+        "Category":"en:mixed-vegetables",
+        "Calories":0.0347992352
+    },
+    {
+        "Food":"confiture de fraise",
+        "Category":"en:strawberry-jams",
+        "Calories":0.0240917782
+    },
+    {
+        "Food":"thrive plant protein - chocolate swirl",
+        "Category":"en:wines",
+        "Calories":0.034416826
+    },
+    {
+        "Food":"cherry & dark chocolate truffles, cherry & dark chocolate",
+        "Category":"en:chocolate-candies",
+        "Calories":0.05
+    },
+    {
+        "Food":"beverge mix",
+        "Category":"en:protien",
+        "Calories":0.525
+    },
+    {
+        "Food":"hello fresh",
+        "Category":"en:smoked-meat",
+        "Calories":0.0195028681
+    },
+    {
+        "Food":"boisson aux fruits tropicaux",
+        "Category":"en:beverages",
+        "Calories":0.0038001912
+    },
+    {
+        "Food":"lait de coco",
+        "Category":"en:coconut-milks-and-creams",
+        "Calories":0.017710325
+    },
+    {
+        "Food":"solid dark chocolate",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0525095602
+    },
+    {
+        "Food":"nutritional yeast",
+        "Category":"en:vegan",
+        "Calories":0.0375
+    },
+    {
+        "Food":"pain au chocolat pur beurre x10",
+        "Category":"en:chocolate-croissant",
+        "Calories":0.042208413
+    },
+    {
+        "Food":"snep plus",
+        "Category":"en:colombian-coffees",
+        "Calories":0.0215105163
+    },
+    {
+        "Food":"pain mie toast nature canape",
+        "Category":"en:breads",
+        "Calories":0.0289913958
+    },
+    {
+        "Food":"collagen elixir",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0099904398
+    },
+    {
+        "Food":"chokodomi p\u00e2te \u00e0 tartiner chocolat noisettes bio",
+        "Category":"en:chocolate-spreads",
+        "Calories":0.0569311663
+    },
+    {
+        "Food":"geschnetzeltes",
+        "Category":"en:meat-analogues",
+        "Calories":0.0099904398
+    },
+    {
+        "Food":"lentilles brunes bio",
+        "Category":"en:brown-lentils",
+        "Calories":0.0054254302
+    },
+    {
+        "Food":"cr\u00e8me de marrons",
+        "Category":"en:chestnut-spreads",
+        "Calories":0.0184751434
+    },
+    {
+        "Food":"beignets gourmands parfum choco-noisettes",
+        "Category":"en:doughnuts-filled-with-chocolate",
+        "Calories":0.0406070746
+    },
+    {
+        "Food":"jamon",
+        "Category":"en:raw-cured-ham",
+        "Calories":0.0289913958
+    },
+    {
+        "Food":"madelaine chocolate, it's a girl! solid milk chocolate cigars, milk chocolate",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0534894837
+    },
+    {
+        "Food":"plantain chips",
+        "Category":"en:plantain-chips",
+        "Calories":0.05666826
+    },
+    {
+        "Food":"nectarines",
+        "Category":"en:fresh-nectarines",
+        "Calories":0.004541109
+    },
+    {
+        "Food":"milkyway, magic stars chocolates",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0559034417
+    },
+    {
+        "Food":"confiture d'oranges",
+        "Category":"fr:cakes-aux-raisins",
+        "Calories":0.0422562141
+    },
+    {
+        "Food":"cooked shrimp peeled and deveined tail off",
+        "Category":"en:frozen-seafood",
+        "Calories":0.0093929254
+    },
+    {
+        "Food":"red leaf",
+        "Category":"en:fruits-and-vegetables-based-foods",
+        "Calories":0.001792543
+    },
+    {
+        "Food":"bonbons de chocolat assortis",
+        "Category":"en:confectioneries",
+        "Calories":0.0490917782
+    },
+    {
+        "Food":"sliced cracked wheat sourdough bread",
+        "Category":"en:sourdough-bread",
+        "Calories":0.0230640535
+    },
+    {
+        "Food":"velout\u00e9 de l\u00e9gumes du soleil",
+        "Category":"en:canned-vegetable-soups",
+        "Calories":0.0034894837
+    },
+    {
+        "Food":"cream of chicken soup mix",
+        "Category":"en:soups",
+        "Calories":0.043499044
+    },
+    {
+        "Food":"avocado lime flavour sauce",
+        "Category":"en:sauces",
+        "Calories":0.023207457
+    },
+    {
+        "Food":"ribbelchips naturel",
+        "Category":"en:potato-crisps-in-sunflower-oil",
+        "Calories":0.0525095602
+    },
+    {
+        "Food":"honey coated banana slices",
+        "Category":"en:snacks",
+        "Calories":0.0548040153
+    },
+    {
+        "Food":"oven baking potato",
+        "Category":"en:fresh-potatoes",
+        "Calories":0.0092973231
+    },
+    {
+        "Food":"beurre de cacahuete",
+        "Category":"en:peanut-butters",
+        "Calories":0.0614005736
+    },
+    {
+        "Food":"sauce tomate au thon & olives bio kazidomi",
+        "Category":"en:groceries",
+        "Calories":0.0064053537
+    },
+    {
+        "Food":"dehydrated apple slices",
+        "Category":"en:snacks",
+        "Calories":0.0353011472
+    },
+    {
+        "Food":"pruneau d'agen",
+        "Category":"fr:pruneaux-d-agen",
+        "Calories":0.0233986616
+    },
+    {
+        "Food":"the madelaine chocolate company, solid milk chocolate",
+        "Category":"en:chocolate-candies",
+        "Calories":0.0549952199
+    },
+    {
+        "Food":"bevanda al gusto di cacao",
+        "Category":"en:protein-powders",
+        "Calories":0.0352055449
+    },
+    {
+        "Food":"white chocolate",
+        "Category":"en:white-chocolates",
+        "Calories":0.0575047801
+    },
+    {
+        "Food":"healthy food brands, a&w, soda bottles gummy candies with real a&w root beer",
+        "Category":"en:confectioneries",
+        "Calories":0.025
+    },
+    {
+        "Food":"26 38",
+        "Category":"en:five-cheese-pizza",
+        "Calories":0.0257170172
+    },
+    {
+        "Food":"naranjitos",
+        "Category":"en:chocolate-covered-fruits",
+        "Calories":0.0412045889
+    },
+    {
+        "Food":"mixed fruit gummies",
+        "Category":"en:confectioneries",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"poudre de prot\u00e9ines d'amande",
+        "Category":"en:protein-powders",
+        "Calories":0.0386950287
+    },
+    {
+        "Food":"soft chewy twisted candy bites",
+        "Category":"en:confectioneries",
+        "Calories":0.0299952199
+    },
+    {
+        "Food":"passata de tomates bio",
+        "Category":"en:groceries",
+        "Calories":0.0031309751
+    },
+    {
+        "Food":"mix fruits rojos",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0332217973
+    },
+    {
+        "Food":"sandwich jambon fraicheur",
+        "Category":"en:baguette-sandwiches-with-ham-and-butter",
+        "Calories":0.0204110899
+    },
+    {
+        "Food":"milk chocolate rose",
+        "Category":"en:confectioneries",
+        "Calories":0.0523900574
+    },
+    {
+        "Food":"farina avena",
+        "Category":"it:farina-d-avena",
+        "Calories":0.0353967495
+    },
+    {
+        "Food":"tnt exploding candy",
+        "Category":"en:confectioneries",
+        "Calories":0.033293499
+    },
+    {
+        "Food":"minotaur bio - huile d'olive vierge extra",
+        "Category":"en:virgin-olive-oils",
+        "Calories":0.080999044
+    },
+    {
+        "Food":"moelleux au chocolat",
+        "Category":"en:molten-chocolate-cakes",
+        "Calories":0.0455783939
+    },
+    {
+        "Food":"dutch chocolate",
+        "Category":"en:protein-powders",
+        "Calories":0.0426625239
+    },
+    {
+        "Food":"alimneto equilibrado pomme epicee formula 1",
+        "Category":"en:bodybuilding-supplements",
+        "Calories":0.0386950287
+    },
+    {
+        "Food":"soupe \u00e0 la chinoise  l\u00e9gumes et vermicelles",
+        "Category":"en:soups",
+        "Calories":0.0020076482
+    },
+    {
+        "Food":"beurre de cacahu\u00e8tes bio",
+        "Category":"fr:pate-de-noix",
+        "Calories":0.0620458891
+    },
+    {
+        "Food":"orange confite",
+        "Category":"en:oranges",
+        "Calories":0.0314053537
+    },
+    {
+        "Food":"rillettes de sanglier au chouchen",
+        "Category":"en:wild-boar-rillettes",
+        "Calories":0.0325047801
+    },
+    {
+        "Food":"big papa's, southern sauce",
+        "Category":"en:groceries",
+        "Calories":0.025
+    },
+    {
+        "Food":"beignets \u00e0 l'abricot",
+        "Category":"en:sweet-fritters",
+        "Calories":0.0314053537
+    },
+    {
+        "Food":"blanc de poulet",
+        "Category":"en:cooked-chicken-breast-slices",
+        "Calories":0.0097036329
+    },
+    {
+        "Food":"flamin hot",
+        "Category":"en:protien-powder",
+        "Calories":0.0159894837
+    },
+    {
+        "Food":"blanc de poulet z\u00e9ro nitrites",
+        "Category":"en:meats",
+        "Calories":0.0103967495
+    },
+    {
+        "Food":"nibs de cacao",
+        "Category":"en:cocoa-beans",
+        "Calories":0.0603967495
+    },
+    {
+        "Food":"p\u00e8re no\u00ebl lait",
+        "Category":"en:chocolate-santa-clauses",
+        "Calories":0.056500956
+    },
+    {
+        "Food":"multivitamin",
+        "Category":"en:vitamins",
+        "Calories":0.0
+    },
+    {
+        "Food":"chorizo",
+        "Category":"en:chorizo",
+        "Calories":0.0434034417
+    },
+    {
+        "Food":"apple ginger drink",
+        "Category":"en:groceries",
+        "Calories":0.0031070746
+    },
+    {
+        "Food":"crema spalmabile nocciola",
+        "Category":"en:cocoa-and-hazelnuts-spreads",
+        "Calories":0.0471319312
+    },
+    {
+        "Food":"sweet stevia tablets",
+        "Category":"en:stevia-and-their-products",
+        "Calories":0.0
+    },
+    {
+        "Food":"tranch\u00e9s de dinde",
+        "Category":"en:turkeys",
+        "Calories":0.0109942639
+    },
+    {
+        "Food":"crema al pistacchio",
+        "Category":"fr:cremes-de-pistaches",
+        "Calories":0.055210325
+    },
+    {
+        "Food":"boisson nutritionnelle banana creme",
+        "Category":"en:groceries",
+        "Calories":0.0377390057
+    },
+    {
+        "Food":"croissants pur beurre",
+        "Category":"en:butter-croissants",
+        "Calories":0.0413957935
+    },
+    {
+        "Food":"peanut butter",
+        "Category":"en:peanut-butters",
+        "Calories":0.0619024857
+    },
+    {
+        "Food":"smelties",
+        "Category":"en:baby-foods",
+        "Calories":0.035707457
+    },
+    {
+        "Food":"eirn original curry sauce",
+        "Category":"en:sauce-powder",
+        "Calories":0.0412045889
+    },
+    {
+        "Food":"celery",
+        "Category":"en:groceries",
+        "Calories":0.0014101338
+    },
+    {
+        "Food":"organic erythritol granulated",
+        "Category":"fr:croquettes-chat",
+        "Calories":0.0
+    },
+    {
+        "Food":"candy crush, sugar crush crunchy and crackling candy combination, strawberry & watermelon",
+        "Category":"en:confectioneries",
+        "Calories":0.0400095602
+    },
+    {
+        "Food":"barrette cioccolato e arachidi 1 barretta 35g.",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0401051625
+    },
+    {
+        "Food":"confinoix",
+        "Category":"en:jams",
+        "Calories":0.0560946463
+    },
+    {
+        "Food":"medjool dates, extra fancy",
+        "Category":"en:medjool-dates",
+        "Calories":0.0041108987
+    },
+    {
+        "Food":"barretta proteica",
+        "Category":"en:dietary-supplements",
+        "Calories":0.0469885277
+    },
+    {
+        "Food":"pear nectar",
+        "Category":"en:pear-nectars",
+        "Calories":0.0054015296
+    },
+    {
+        "Food":"organic protein powder vanilla bean flavored",
+        "Category":"en:protein-powders",
+        "Calories":0.0326003824
+    },
+    {
+        "Food":"grilled chicken breast",
+        "Category":"en:poultry",
+        "Calories":0.0039435946
+    },
+    {
+        "Food":"brown rice",
+        "Category":"en:grains",
+        "Calories":0.0026768642
+    },
+    {
+        "Food":"salmon fillet",
+        "Category":"en:fish",
+        "Calories":0.0049713193
+    },
+    {
+        "Food":"sweet potato",
+        "Category":"en:vegetables",
+        "Calories":0.0020554493
+    },
+    {
+        "Food":"greek yogurt",
+        "Category":"en:dairy",
+        "Calories":0.0014101338
+    },
+    {
+        "Food":"banana",
+        "Category":"en:fruits",
+        "Calories":0.0021271511
+    },
+    {
+        "Food":"almonds",
+        "Category":"en:nuts",
+        "Calories":0.0138384321
+    },
+    {
+        "Food":"quinoa",
+        "Category":"en:grains",
+        "Calories":0.0028680688
+    },
+    {
+        "Food":"avocado",
+        "Category":"en:fruits",
+        "Calories":0.0038240918
+    },
+    {
+        "Food":"egg",
+        "Category":"en:eggs",
+        "Calories":0.0037045889
+    }
+]
