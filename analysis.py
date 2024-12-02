@@ -1,7 +1,5 @@
 from collections import Counter
 from datetime import datetime
-
-# import openai  # Import the OpenAI library
 import openai
 import os
 
