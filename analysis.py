@@ -3,8 +3,13 @@ from datetime import datetime
 
 # import openai  # Import the OpenAI library
 import openai
+import os
 
-openai.api_key = "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"
+from dotenv import load_dotenv
+
+load_dotenv()
+
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 
 class Analysis:
