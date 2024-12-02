@@ -8,3 +8,5 @@ __pycache__/
 # Ignore other common files
 *.log
 *.sqlite3
+
+.env
