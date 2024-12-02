@@ -1,6 +1,6 @@
 # Eating Habits and Fitness Assistant
 
-A Python application that helps users track their eating habits, manage calorie intake, and generate personalized fitness recommendations using OpenAI's GPT-4.
+A Python application that helps users track their eating habits, manage calorie intake, and generate personalized fitness recommendations using LLMs.
 
 ## Features
 
@@ -49,3 +49,11 @@ To ensure the application functions correctly, run the unit tests provided. The 
 To run the tests, use the following command:
 
 python3 test_app.py
+
+## Environment Variables
+
+- OPENAI_API_KEY: Your OpenAI API key.
+
+## Author
+
+- Taha Keles
